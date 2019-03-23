@@ -1,1 +1,17 @@
 # TIL
+
+---
+
+- 이 저장소는 제가 배우고 스스로 학습한 것들을 간단히 정리해서 올리는 공간입니다
+- TIL에 올라오는 내용들의 직접으로 관련된 파일들은 각각의 TIL 내용 안에 마크다운 문법으로 작성하여 연결 해 놓을 예정입니다
+
+---
+## TIL Contents
+
+- [Swift](./Swift/README.md)
+
+---
+## Contact
+
+- [VincentGeranium Blog](https://vincentgeranium.github.io/)
+- E-mail address : kwangjun3952@gmail.com
