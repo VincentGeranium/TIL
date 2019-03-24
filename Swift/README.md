@@ -3,3 +3,4 @@
 
 - [190323 - OOP와 Class 정리](./190323-Swift-TIL.markdown)
 - [190323 - OOP 4대 특징 중 추상화, 캡슐화, 상속성(Method override까지) 정리](./190323-Swift-TIL-2.markdown)
+- [190324 - OOP 4대 특징 중 상속성(오버라이드 프로퍼티, 오버라이드 프로퍼티 옵저버 정리](./190324-Swift-TIL-3.markdown)
