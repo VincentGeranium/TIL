@@ -6,3 +6,4 @@
 - [190324 - OOP 4대 특징 중 상속성(오버라이드 프로퍼티, 오버라이드 프로퍼티 옵저버 정리](./190324-Swift-TIL-3.markdown)
 - [190325 - Equatable 과 Comparable](./190325-Swift-TIL-4.markdown)
 - [190325 - Closure 에 대하여 - 1](./190325-Swift-TIL-5.markdown)
+- [190326 - Closure 에 대하여 - 2](./190326-Swift-TIL-6.markdown)
