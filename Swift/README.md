@@ -8,3 +8,4 @@
 - [190325 - Closure 에 대하여 - 1](./190325-Swift-TIL-5.markdown)
 - [190326 - Closure 에 대하여 - 2](./190326-Swift-TIL-6.markdown)
 - [190327 - View Controller Life Cycle에 대한 공부](./190327-Swift-TIL-7.md)
+- [190328 - 변수와 상수,타입 추론과 타입 어노테이션, 형변환, 타입알리아스, 기본 연산자 공부](./190328-Swift-TIL-8.md)
