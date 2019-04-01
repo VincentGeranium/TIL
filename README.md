@@ -19,7 +19,7 @@
 ---
 ## TIL Contents
 
-- [Swift](./Swift/README.md)
+- [Today_I_Learnd](./Today_I_Learnd/README.md)
 
 ---
 ## Contact
