@@ -1,0 +1,397 @@
+## 스위프트의 제어문
+
+---
+
+오늘은 스위프트의 제어문에 대해 알아보도록 하자  
+스위프트에서 제공하는 제어문들을 하나 하나 예시를 들어가면서 한번 공부해보자  
+  
+---
+  
+### if 문 (if statements)  
+  
+if 문 안에도 여러 종류의 if문이 있다 하나 하나 알아가보자  
+  
+#### if 
+
+- **if 문에 condition은 Bool 값으로 결과가 나오는 조건으로만 넣어 주어야 한다**
+    - 즉, true/false가 구분이 되어야 한다는 소리
+  
+기본적인 if문의 정의 구문은 아래와 같다  
+
+```
+if condition {
+    code
+}
+```
+  
+예시를 들어서 한번 봐보자  
+  
+```
+var number: Int = 30
+
+if number <= 35 {
+    print("number가 35보다 작거나 같습니다"
+}
+
+// number가 35보다 작거나 같습니다
+```
+  
+- 위의 예시에서 보면 if 다음에 condition 자리에 number를 비교하여 true/false로 나타낼 수 있는 구문이 자리해 있다
+- number <= 35, number가 35보다 작거나 같으면 true, 35보다 크면 false
+- 조건문이 true이면 { print("number가 35보다 작거나 같습니다")} 라는 구문이 실행된다
+  
+#### if ~ else
+  
+이번에는 if ~ else 구문에 대해 알아보자  
+기본적인 if ~ else의 구문은 다음과 같다  
+  
+```
+if condition {
+    statement
+} else {
+    statement
+}
+```
+  
+예시를 들어보자  
+  
+```
+var nowTemperture = 40
+
+if nowTemperture <= 32 {
+    print("날씨가 쌀쌀하니 겉옷을 챙기세요")
+} else {
+    print("날씨가 춥지 않으니 가볍게 나오셔도 되요")
+}
+
+// 날씨가 춥지 않으니 가볍게 나오셔도 되요
+```
+
+- if 다음에 오는 condition을 보고 true이면 condition 다음 중괄호 안에 있는 구문을 실행하고, false이면 else 다음 중괄호 안에 있는 구문을 실행한다
+  
+#### if ~ else if ~ else
+  
+이번에는 if ~ else if ~ else에 대해 알아보자  
+기본적인 if ~ else if ~ else 구문은 다음과 같다  
+  
+```
+if condition {
+    statement
+} else if condition {
+    statement
+} else {
+    statement
+}
+```
+
+- 이번에는 조건문을 2개를 들어 선택지가 3개로 늘어난다
+- if condiotion 이 true 인 경우 바로 다음의 statement가 실행
+    - false인 경우 else if condition을 확인
+- else if condition 이 true 인 경우 바로 다음의 statement가 실행
+    - false인 경우 else 구문 실행
+  
+예시를 들어서 봐보자  
+
+```
+var nowTempertureFahrenheit = 90
+
+if nowTempertureFahrenheit <= 32 {
+    print("매우 춥습니다 목도리를 챙기세요"
+} else if nowTempertureFahremheit >= 86 {
+    print("더운 날씨에요, 선크림 바르는것을 잊지마세요")
+} else {
+    print("따뜻한 날씨네요, 가볍게 입으세요")
+}
+
+// 더운 날씨에요, 선크림 바르는것을 잊지마세요
+```
+
+- 이미 지정되어있는 조건인 nowTempertureFahrenheit = 90이다
+- 처음 if문의 condition이 32보다 작거나 같을때 인데 90은 32보다 크기 때문에 false이므로 else if 구문으로 실행이 넘어간다
+- else if 구문의 condition이 86보다 크거나 같을때 인데 90은 86보다 크기 때문에 else if 다음의 {} 안의 내용이 실행이 되어 출력된다
+- else는 if 와 else if 사이의 조건이 된다 즉, 32보다 크고 86보다 작은 범위이면 else 구문이 실행 된다  
+  
+#### if ~ else if  
+  
+이번에는 if ~ else if 구문에 대해 알아보자  
+기본적인 if ~ else if 구문은 다음과 같다
+
+```
+if condition {
+    statement
+} else if condition {
+    statement
+}
+```
+
+- if condition이 true 인 경우 if 구문의 statement가 실행이 된다
+    - false 인 경우 else if condition 구문으로 실행 흐름이 넘어간다
+- else if condition이 true인 경우 else if 구문의 statement가 실행 된다
+    - false 인 경우 if ~ else if 구문 전체를 종료한다
+  
+예시를 들어 알아보자  
+  
+```
+var nowTempertureFarenheit = 72
+if nowTempertureFarenheit <= 32 {
+    print("It's very cold. Consider wearing globe")
+} else if nowTempertureFarenheit >= 86 {
+    print("It's too hot. Don't forget the sunglases")
+}
+// 아무런 값이 출력되지 않는다
+```
+
+- if 구문의 condition이 false이므로 else if 구문으로 실행 흐름이 넘어간다
+- else if 구문의 condition을 확인해보니 이 역시도 false이다 그러므로 모든 구문의 실행이 종료되고 if ~ else if 구문을 빠져나온다  
+  
+#### if 구문의 Logical Operator  
+  
+if 구문은 true/false 값이 분명하게 나올 수 있는 condition이면 사용이 가능하기 때문에 논리연산자가 사용이 가능하다. if 구문 내에서 사용되는 논리연산자의 예시를 보면서 알아가보자  
+  
+```
+var nowTempertureFarenheit = 72
+
+if (nowTempertureFarenheit > 0) && (nowTempertureFarenheit % 2 == 0) {
+    print("true"
+}
+// true
+
+if (nowTempertureFarenheit > 0, nowTempertureFarenheit % 2 == 0) {
+    print("true"
+}
+// true
+
+if (nowTempertureFarenheit >0) || (nowTempertureFarenheit % 2 == 0) {
+    print("true"
+}
+// true
+```
+
+- And, Or 논리 연산자가 사용되는 if 문을 보고 있는데 이 중 두번째 if문을 보면 ( , )이 있다 if 문 내에서 ( , )는 And 논리 연산자를 뜻한다  
+  
+---
+
+### Switch 문
+  
+switch 구문의 기본 정의부터 살펴보자  
+  
+```
+switch value {
+case value1:
+    respond to value1
+case value2,
+    value3:
+    respond to value2 or value3
+default:
+    otherwise, do something else
+}
+```
+  
+**switch 문은 가능한 모든 사례를 반드시 다루어야 한다**
+  
+예시를 보면서 살펴보자  
+  
+```
+let number: Int = 1
+
+switch number {
+case 1:
+    print("This is number one")
+case 3:
+    print("This is number three")
+default: 
+    break
+    
+// "This is number one"
+```
+
+- switch 문은 value에 들어가는 값과 case 뒤에 나오는 value1, 2, 3...등 모든 case의 value와 비교하여 같은 값의 value가 들어있는 case 를 실행한다
+- switch 문의 마지막은 default 값을 주어 break를 걸어 switch문을 종료시키거나 case의 모든 값들이 다 다를때 실행되어야 할 구문을 넣어 default 구문을 실행한다
+  
+  
+**Default 가 없는 switch문**
+
+```
+let isTrue = true
+type(of: isTrue) // Bool
+
+switch isTrue {
+case true:
+    print("true")
+case false:
+    print("false")
+}
+
+//
+true
+```
+
+- switch 문은 Bool 타입의 value를 넣어 실행 할 수도 있는데 이때 Bool 타입은 true/false 두가지 밖에 결과값이 없으므로 default 가 필요 없다
+
+**switch문은 범위를 value로 넣어 case 별 value로 하여 결과값을 도출 할 수 있다**
+
+```
+let average = 30
+
+switch average {
+case 0...50:
+    print("평균이 0~50 사이 입니다")
+case 51...100:
+    print("평균이 51~100 사이 입니다")
+default:
+    print("평균을 알 수 없습니다")
+}
+
+// 
+평균이 0 ~ 50 사이 입니다
+```
+
+- 미리 정해진 평균값이 30인데 그 값을 기준으로하여 switch 문을 돌리면 각 case 별로 딱 정해진 value값이 아닌 범위 값으로 case의 value 값을 주고 각 case를 비교하여 결과값을 도출한다
+- 30은 0...50의 범위에 포함되므로 첫번째 case가 실행되어 "평균이 0 ~ 50 사이 입니다"가 실행된다
+
+**Switch문은 복합적인 value도 넣어서 각 case별로 value값을 비교하고 결과값을 도출할 수 있다**
+
+```
+let findCharacter: Character = "a"
+
+switch findCharacter {
+case "a", "e", "i", "o", "u":
+    print("a, e, i, o, u 중 내가 찾는 알파벳이 있습니다")
+case "b", "c", "d", "f", "g", "h","j", "k":
+    print("b, c, d, f, g, h, j, k 중에 내가 찾는 알파벳이 있습니다")
+case "l", "m", "n", "o", "p", "q", "r", "s", "t", "u":
+    print("l, m, n, o, p, q, r, s, t, u 중에 내가 찾는 알파벳이 있습니다")
+default:
+    print("v, w, x, y, z 중에 내가 찾는 알파벳이 있습니다")
+}
+
+//
+a, e, i, o, u 중 내가 찾는 알파벳이 있습니다
+```
+
+- 위의 예시처럼 수 많은 여러 복합적인 value들을 case의 value로 넣어 switch 문의 value와 비교하여 결과값을 도출 할 수 있다
+
+**switch 문은 value를 binding 할 수 있다**  
+  
+- **switch 문의 value binding이란, case에 매칭된 값을 임시 변수/상수에 할당해 놓는 것을 말한다. case의 실행코드 내에서 그 임시 상수/변수를 사용할 수 있다(Scope도 거기까지이다)**
+
+```
+let treasurePoint(9,0)
+
+switch treasurePoint {
+case (let distance, 0), (0, let distance):
+    print("On an axis, \(distance) from the origin")
+default:
+    print("Not on an axis")
+    
+//
+On an axis 9 from the origin
+```
+
+- 위의 예제는 treasurePoint라는 상수에 (9,0)으로 값을 주고 switch 문의 각 case를 비교하는 구문인데 첫번째 case를 보면 (let distance, 0), (0, let distance): 를 주었다
+- (let distance, 0), (0, let distance)는 value를 각각 바인딩하여 value 값을 비교 할 수 있게 복합적으로 2개로 나뉘었는데 중요시 봐야할 부분은 let distance 뒤에 (,) 있는 값이다
+- let distance에는 어떤 값이 들어와도 된다 그러나 (,)을 기준으로 뒤에 0 앞에 0 두가지 버전이 있는데 그 0의 위치와 treasurePoint의 value의 0의 위치가 같고 그 것을 비교하여 두 value가 맞으면 그 결과값을 도출한다
+- 즉, treasurePoint는 (9,0)이므로 (let distance,0)과 같은 value이다 그리하여 let distance에 9가 들어간다.
+- 그래서 결과값으로 On an axis 9 from the origin 도출이 되는 것이다
+
+**switch 문에는 where 절이 함께 쓰일 수 있다**
+
+```
+let anotherPoint = (1, -1)
+
+switch anotherPoint {
+case let (x,y) where x == y:
+    print("(\(x), \(y)) is on the line x == y")
+case let (x, y) where x == -y:
+    print("\(x), \(y)) is on the line x == -y")
+case let (x, y):
+    print("\(x), \(y)) is just some arbitarry point")
+    
+// 
+1, -1 is on the line x == -y
+```
+
+- 먼저 (1,-1)의 값을 상수 anotherPoint에 넣고 바인딩 된 case의 value를 비교하고 맞는 값을 도출해야 하는데 모든 case가 let (x,y)로 되어있다, 그래서 where 절을 보면 x와 y의 비교를 통해 anotherPoint의 x값과 y값을 비교하여 where의 비교구문과 맞는 value가 있는 곳의 case 결과 값이 도출된다
+- 즉, 첫번째 case의 where를 보면 x == y 이므로 anotherPoint 의 1 == -1은 false이므로 다음 case로 넘어간다
+- 두번째 case의 where를 보면 x == -y 이므로 x와 -y의 값이 anotherPoint의 값이 1 == -1이 같으므로 두번째 case의 결과값이 나온다
+
+**switch 문에서는 fallthrough가 쓰일 수 있다**
+
+- switch 문에서 fallthrough가 쓰이면 fallthrough 뒤에 case는 조건을 체크하지 않고 바로 참 여부와는 상관없이 실행된다
+
+```
+let integerToDescribe = 5
+var description = "The Number \(integerToDescribe) is"
+
+switch integerToDescribe {
+case 2, 3, 4, 5, 7, 11, 13, 17, 19:
+    description += " a prime number, and also"
+    fallthrough
+case 100:
+    description += " an integer"
+default:
+    description += "....."
+}
+print(description)
+
+// The number 5 is a prime number, and also an integer.
+```
+
+- case 100: 은 맞지 않는 조건인데도 불구하고 첫번째 case의 조건이 맞아서 실행된 뒤 그 안에 함께 있던 fallthrough가 실행되어 뒤에 나온 case 100: 이 실행되어 The number 5 is a prime number, and also an integer. 가 나오게 된다
+
+---
+
+### guard 문  
+  
+guard 문은 조건에 맞지 않으면 바로 종료하는 구문이다  
+들여쓰기 중첩을 방지한다  
+  
+기본 guard 문의 정의 방법을 if ~ else if 문과 비교하여 봐보자  
+  
+```
+if condition {
+code
+} else if condition {
+code
+}
+```
+
+- if ~ else if 문은 condition을 만족하면 해당 분기문이 실행된다
+
+```
+guard condition else {
+code
+}
+```
+
+- guard 문은 condition이 맞지 않으면 바로 종료된다  
+  
+예제를 보면서 이해해보자
+
+```
+func updateAge(age: Int) {
+    guard 1...100 ~= age else { return }
+    print("Update")
+}
+
+update(age: 100)
+
+// "Update"
+```
+
+- guard 다음에 조건으로 1 ~ 100 사이의 값이 age에 맞으면 true가 되어 "Update"가 출력된다
+- ~=는 처음보는 연산자인데, ~=는 범위를 체크해주는 연산자이다  
+  
+```
+if n >= 10 && n <= 100 {
+    print("10이상 100이하 입니다")
+}
+// "10 이상 100이하 입니다"
+
+위의 if 문의 조건문은 n의 범위를 체크하는 것이다 n이 10 ~ 100 사이의 값이면 print하는 것인데 ~= 연산자를 이용하면 훨씬 더 간단하게 코드를 짤 수 있다
+
+if 10...100 ~= n {
+    print("10이상 100이하 입니다")
+}
+// "10 이상 100이하 입니다"
+```
