@@ -13,3 +13,4 @@
 - [190329 - About Control Flow](./190329-Swift-TIL-10.markdown)
 - [190331 - 타입캐스팅,옵셔널 바인딩, 비교 연산자, Set과 Array의 새로운 데이터 추가 등 공부](./190331-Swift-TIL-11.markdown)
 - [190401 - Access Level, Control Statement, Frame and Bounds, 등 공부](./190401-TIL-12.markdown)
+- [190402 - 정적 블로그 만들기 특강, Any, AnyObject, Type Casting 등 공부](./190402-TIL.markdown)
