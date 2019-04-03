@@ -1,0 +1,7 @@
+# Today I Learned
+---
+
+- Delegate에 대해 공부
+- Class, Object, Instance 의 차이점 공부 및 정리 [Blog Post](https://vincentgeranium.github.io/itterm/2019/04/03/IT-Term-study.html)
+- Type check -> is 공부 [Blog Post](https://vincentgeranium.github.io/swift/2019/04/03/daily-study.html)
+- Git 특강 -> 이세준 강사님
