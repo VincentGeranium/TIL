@@ -1,0 +1,9 @@
+# Today I Learned
+
+---
+
+- Type Casting에 대하여 공부-> 예시코드와 주석은 깃헙에 [Github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-04-TypeCasting.playground)
+- Type Casting의 is, as [Blog Post](https://vincentgeranium.github.io/swift/2019/04/04/typeCasting-isAndas.html)
+- 슈퍼클래스, 메소드, 프로퍼티, 그리고 서브스크립스에 대한 접근 -> override와 super를 사용하여 [Blog Post](https://vincentgeranium.github.io/swift/2019/04/04/override-super.html)
+- Optional Binding(옵셔널 바인딩) [Blog Post](https://vincentgeranium.github.io/swift/2019/04/04/Optional-Binding.html)
+- Optional Chaining(옵셔널 체이닝) [Blog Post](https://vincentgeranium.github.io/swift/2019/04/04/Optional-Chaining.html)
