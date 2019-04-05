@@ -1,0 +1,13 @@
+# Today I Learned
+---
+
+- Optional Chaining 예시 코드에서 잘못 알고있던 코드의 해석을 다시 해석[Github](https://github.com/VincentGeranium/Swift-Study/blob/master/2019-04-05-getNewKnowledge.playground/Contents.swift)
+- Property 의 get, set 그리고 Property Observer[Github](https://github.com/VincentGeranium/Swift-Study/blob/master/2019-04-05-Computed-Property-1.playground/Contents.swift)
+- iOS method -> .addSubView() 에 대해 공부
+
+---
+
+## Today Review
+문법적인 부분은 공부를 해도해도 끝이 없는것 같다. 처음의도는 아에 문법공부를 완벽히 끝내고 iOS를 제대로 공부해야겠다는 생각이엿는데 그렇게 하게되면 진도가 너무 늦어질것 같은 생각도 들고 실제로도 직접 느끼고 있다. 그래서 iOS를 함께 공부하는 방향으로 바꿔야 겠다는 생각을 했다.
+그리고 자꾸 공부한 내용을 잊는 이유가 제대로 기억하려하지 않아서라는 결론을 얻었다, 그저 타이핑만 하고 올리는 반복적인 행동을 하니 뭔가를 하나 학습하고 머리에 넣지 않고 그냥 지나치는 버릇이 생겨서 이번에는 확실하게 다잡고 공부 방향을 바꿔야겠다는 생각을 했다.
+iOS 앱을 만들다고 모르면 직접 찾아보고 정리하고 그 안에 문법적인 내용도 다시 살펴보는 그런 학습 방향으로 가야겠다.
