@@ -15,3 +15,5 @@
 - [190401 - Access Level, Control Statement, Frame and Bounds, 등 공부](./190401-TIL-12.markdown)
 - [190402 - 정적 블로그 만들기 특강, Any, AnyObject, Type Casting 등 공부](./190402-TIL.markdown)
 - [190403 - Type check 공부](./190403-TIL.markdown)
+- [190404 - type casting, override and super, Optional Binding and Chaining](./190404-TIL.markdown)
+- [190405 - 잘못된 코드 해석의 수정, 연산프로퍼티의 get and set, iOS method -> .addSubView](./190405-TIL.markdown)
