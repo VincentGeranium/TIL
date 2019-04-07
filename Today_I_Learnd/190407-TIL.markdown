@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- 게으른 저장 프로퍼티[blog](https://vincentgeranium.github.io/swift/2019/04/07/lazy-stored-property.html)
+- 과제 풀이[github](https://github.com/VincentGeranium/Swift-Study/blob/master/2019-03-30-Swift-Study.playground/Contents.swift)
+- Delegate 공부
+
+---
+
+## Today Review
+게으른 저장 프로퍼티를 공부하면서 느낀점은 프로퍼티도 여러 종류가 있고 그에 알맞는 상황에 따라 잘 쓰면 효과적으로 메모리를 관리 할 수 있겠구나 라는 생각이 들었다
+옛날에 있었던 과제인데 이제서야 다 풀었다. 과제가 어려워서라기 보다는 그 과제보다 먼저 선행 되어야 하는 학습 내용들을 공부하느라 많이 늦어졌다.
+그런데 공부하고 다시보니 조금은 이해가 가기도 하고 문제를 푸는데 시간이 걸리긴 하지만 옛날에는 안풀리고 답이 안보였던 문제들이 이제는 고민을 하면 답이 조금 보이고
+여러번 시도하다보면 답이 나오는 상황에 다다르게 되었다. 뭔가 기분이 좋아졌다.
+iOS 에 대한 공부도 열심히 해야 하는데 iOS를 공부하면 또 문법이 딸리고 문법을 다시 보고 이러는 상황이 계속되지만 그래도 이해하는 속도나 이해도의 깊이가 달라졌다는 것이
+확실히 느껴진다.
