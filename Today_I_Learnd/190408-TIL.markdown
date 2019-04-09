@@ -6,3 +6,4 @@
 - delegate 공부 [Blog Post](https://vincentgeranium.github.io/2019/04/08/delegate-study.html) 
 - UISwitch의 상태 변화를 이용하여 UILabel에 text 변화주기 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-08-UISwitch-Study)
 - UIButton의 Action과 그에 따른 UILabel에 text 변화주기 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-08-Button-Study)
+- UISegmentedControl의 액션에 따른 UILabel에 text 변화주기 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-08-SegmentedControl-Study)
