@@ -9,7 +9,7 @@
 ---
 ## Update Information
 
-- **190401**
+- **190401 -> fix main README.md and add new edit contents**
 
 ```
 지금까지는 TIL을 그날 공부한 내용들을 직접적으로 모두 정리하여 올렸는데 그렇게 하면 블로그 포스트와 다를것이 없어서 TIL을 다이어리처럼 사용하려고 합니다. 
