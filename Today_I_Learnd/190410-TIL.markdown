@@ -1,0 +1,13 @@
+# Today I Learned
+---
+
+- Alert Controller 공부 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-10-AlertController-Study)
+- UIViewController 간의 데이터 전송 공부[github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-10-UIViewController-Study)
+
+---
+
+# Today Review
+지난번에 말했던 것 처럼 직접 코드를 쳐보는 것과 문법을 같이 공부한다고 했는데 역시나 힘들다.
+직접 코드를 쳐보면, 문법 공부할 시간이 나질 않고 그리고 뭔가를 정리해야된다는 압박감도 있어서 조금은 시간이 빠듯하지만
+그래도 더 열심히해서 몸에 익숙하게 만들고 시간 관리를 잘해서 그 시간에 맞는 일들을 처리하면 다 가능하다고 생각한다
+조금 더 시간을 쪼개서 사용해야겠다
