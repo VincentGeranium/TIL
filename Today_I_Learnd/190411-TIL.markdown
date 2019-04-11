@@ -1,0 +1,18 @@
+# Today I Learned
+---
+
+- AlertController Code Review [blog post](https://vincentgeranium.github.io/swift/2019/04/11/AlertController-Code-Review.html)
+- ScrollViewController 공부 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-11-scrollView-Study)
+
+---
+
+# Today Review
+뭔가 하나를 배우면 다음것을 배우는게 재미가 있다 그런데 자꾸 전에 배운걸 까먹어서 문제가 된다.
+항상 다시 복습하고 모르면 손으로 써가면서 복습하는게 좋을듯 하다
+
+---
+
+### 새롭게 알게 된 점 그리고 공부해야 될 내용
+
+- present 메소드는 지정한 뷰 컨트롤러를 새롭게 만들어서 뷰를 화면에 띄워주는 것, 다시말해 화면이 계속 만들어져 중첩되는 형태, dismiss 로 다시 되돌아갈 수 있다, navigaition은 버튼으로 dismiss와 같은 액션을 준다
+- deinit() 메소드에 대한 공부 필요
