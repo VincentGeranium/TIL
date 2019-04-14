@@ -24,3 +24,4 @@
 - [190411 - AlertController Code Review, ScrollViewController 공부](./190411-TIL.markdown)
 - [190412 - ListViewController, TableView, TableViewLifeCycle등 공부](./190412-TIL.markdown)
 - [190413 - TableViewLifeCycle Code Review, TableView Code Review](./190413-TIL.markdown)
+- [190414 - TableView Multiple Selection, for loop, Dictionary, Array](./190414-TIL.markdown)
