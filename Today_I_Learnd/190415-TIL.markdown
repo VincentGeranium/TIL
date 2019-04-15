@@ -1,0 +1,15 @@
+# Today I Learned
+
+---
+
+TableView List Method(1) 공부 [blog](https://vincentgeranium.github.io/swift,/ios/2019/04/15/TableView-List-Method.html)
+TableView List Method(2) 공부 [blog](https://vincentgeranium.github.io/swift,/ios/2019/04/15/TableView-List-Method-2.html)
+
+---
+
+# Today Review
+
+많은 분량의 공부는 아니지만 그래도 차근차근 한다는 생각으로 모르는것 위주의 코드를 해석하고 뜯어보는 학습을 해보았다
+시간은 정말 많이 걸리지만 그래도 내가 모르는 것을 알아가고 그에 대한 답을 찾으니 너무 재미있다
+뭔가 시간에 쫓겨 공부를 하다보니 공부를 즐기지 못하고 힘들고 스트레스 받아가며 했는데, 그래도 차근차근 시간이 걸리더라도
+지금처럼 꾸준히 하려고 한다.
