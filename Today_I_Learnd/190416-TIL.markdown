@@ -1,0 +1,9 @@
+# Today I Learned
+---
+
+- indexPath 공부 (TableView Code 중에 나오는) [blog](https://vincentgeranium.github.io/swift,/ios/2019/04/16/TableView-IndexPath.html)
+- TableView의 section 나누기, section의 row 만들기 by Code and Storyboard  [github](https://github.com/VincentGeranium/Swift-Study/tree/master/TableViewControllerStudy)
+- TableView의 section 나누기, section의 row 만들기 by Code [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-16-TableViewControllerStudyByCode)
+- TableView의 메소드 중 (dequeueReusableCell) 공부 [blog](https://vincentgeranium.github.io/swift,/ios/2019/04/16/TableView-Method-dequeueReusableCell-Study.html)
+- 화면 전환 공부(스토리보드와 코드 함께 사용) [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-Trans01)
+- 화면 전환 코드로 구현 [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-Trans01-byCode)
