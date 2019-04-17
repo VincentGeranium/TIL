@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- dismiss 와 present를 활용한 화면 전환 (by Code) [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-Trans02)
+- dismiss 와 present를 활용한 화면 전환 (by Storyboard and Code) [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-Trans01-BackButton)
+- NavigationController를 활용한 화면 전환 (by Storyboard and Code), 화면 전환 방식의 차이에 따른 이전 화면으로 돌아가기 위한 각각의 메소드 활용 방식 [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-Trans-NavigationController01)
+- Action Segue 두가지 방식의 Action Segue(네비게이션 컨트롤러와 함께 사용한 Segue, 뷰 컨트롤러와 뷰 컨트롤러 사이의 Segue(by Storyboard and Code)) [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-ActionSegue)
+- Manual Segue 구현(by Storyboard and Code) [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-ManualSegue)
+
+---
+
+# Today Review
+
+많은 분량의 예제들을 따라하다보니 재미도 있는데 제대로 공부하고 있는건가?? 하고 의심이 될 때도 있다
+그런데 막상 하다보면 모르는 것들, 이해 안갔던 것들이 해결되고 이해가 가니 기분도 좋고 공부가 확실히 되는구나 하는 순간도 있다
+그리고 왠만하면 Storyboard 로 구현한 예제들도 모두 코드로 구현해보려고 한다.
