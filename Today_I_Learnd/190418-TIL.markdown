@@ -6,6 +6,7 @@
 - 스토리보드를 이용한 다른 두 가지 방법의 Unwind Action Segue, 전 화면으로 돌아가기 [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-MultiUnwind)
 - ARC의 이해(추후에 학습한 내용 정리하여 올릴 예정)
 - 커스텀 세그웨이를 만들고 전처리 메소드를 활용하여 화면 전환 [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-CustomSegue)
+- 두 정수 사이의 합, 알고리즘 연습 [Blog Post](https://vincentgeranium.github.io/algorithm/2019/04/18/Algorithm-Practice.html), [github](https://github.com/VincentGeranium/Algorithm-Study/tree/master/190418-Algorithm-Practice.playground)
 
 ---
 
