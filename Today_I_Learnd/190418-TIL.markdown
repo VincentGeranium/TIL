@@ -1,0 +1,22 @@
+# Today I Learned
+
+---
+
+- 스토리보드의 액션 세그웨이를 이용한 전 화면(Unwind 구현)으로 돌아가기 [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-UnwindSegue)
+- 스토리보드를 이용한 다른 두 가지 방법의 Unwind Action Segue, 전 화면으로 돌아가기 [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-MultiUnwind)
+- ARC의 이해(추후에 학습한 내용 정리하여 올릴 예정)
+- 커스텀 세그웨이를 만들고 전처리 메소드를 활용하여 화면 전환 [github](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-CustomSegue)
+
+---
+
+# Today Review
+여러 사람들과 함께 공부를 하거나 아니면 강의를 들으면
+항상 나 자신을 낮게 보고 남들은 다 하는데 왜 나만 못하지??
+똑같이 함께 공부했는데 다들 잘하고 나는 왜 이해도 못하지?? 하는 자괴감이나
+자존감이 굉장히 낮아지곤 한다.
+그런데 갑자기 든 생각에 나는 나 라는 생각이 들었다.
+나 자신만의 이해가 필요한 시간이 있고, 나도 다 할수있다, 다만 남들과 다른 시간이 걸릴뿐 이라는
+생각이 들었다.
+요즘들어 많이 조급한 느낌이라서 공부도 빨리빨리, 이해 하지 못하고 넘어가도 괜찮아 라는 식의 느낌으로
+공부를 했다.
+다시금 나만의 페이스대로 공부하고 자존감도 높여야겠다
