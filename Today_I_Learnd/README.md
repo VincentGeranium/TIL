@@ -29,3 +29,4 @@
 - [190416 - TableView의 indexPath, TableView Section 나누기(by code and stroyboard), 화면전환 공부 등](./190416-TIL.markdown)
 - [190417 - 여러가지의 예제들 구현](./190417-TIL.markdown)
 - [190418 - 세그웨이 관련 예제들 구현, 알고리즘 공부](./190418-TIL.markdown)
+- [190419 - 기본 계산기 구현,뷰 컨트롤러 간의 데이터 전달, 알고리즘 공부](./190419-TIL.markdown)
