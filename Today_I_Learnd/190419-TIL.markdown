@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- 기본 계산기 구현, 여러가지 오류가 있음 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/Calculator-basic)
+- 기본 계산기 구현, 오류 수정 [github](https://github.com/VincentGeranium/Swift-Example/tree/master/SimpleCalculator)
+- 다른 뷰 컨트롤러와 데이터 주고 받기(프레젠테이션 방식으로 화면 전환하면서 값 전달) [github](https://github.com/VincentGeranium/Swift-Example/tree/master/SubmitValue)
+- 알고리즘 연습 (문자열 내 p와 y의 개수) [github](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/190419-Algorithm-Practice.playground), [Blog Post](https://vincentgeranium.github.io/algorithm/2019/04/19/Algorithm-Practice.html)
+
+---
+
+# Today Review
+
+오늘은 많은 공부를 하지 못햇다, 그래도 나 스스로 계산기를 아주 간단한 코드지만 만들어 봤다
+여러 오류가 있었지만 그 오류에 대한 코드는 스스로 공부하고 다시 복습해야겠다는 생각을 했다.
+그리고 지금까지 스토리보드로 구현한 여러 프로젝트들을 다시 복습하며 코드로 구현 할 수 있도록 노력하고
+코드로 다시 구현하여 공부하고 정리해야겠다는 생각을 했다.
