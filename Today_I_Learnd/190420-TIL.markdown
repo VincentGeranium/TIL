@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- 다른 뷰 컨트롤러와 데이터 주고 받기(present,dismiss 사용)(by Code) [github](https://github.com/VincentGeranium/Swift-Example/tree/master/190420-SubmitValue-byCode)
+
+- 다른 뷰 컨트롤러와 데이터 주고 받기 구현 중 알게 된 점과 몰랏던 점 정리 [Blog Post](https://vincentgeranium.github.io/ios,/swift/2019/04/20/Swift-And-iOS-Study.html)
+
+---
+
+# Today Review
+
+오늘은 하나의 프로젝트를 스스로 생각하고 코드를 직접 쳐보는 공부를 했다.
+처음에는 1달 전에는 아무것도 모르고 어찌할 바를 몰랐었는데 이제는 내가 하는 코드를 내 스스로
+생각해서 만들고 그것이 동작하는것을 보니 너무 즐겁고 재미있다
+몇달 전의 나와 비교해보니 조금은 발전한 느낌이 들어 너무 좋다
+공부가 점점 더 재미있어진다
