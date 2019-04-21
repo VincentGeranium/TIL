@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- 세그웨이와 네비게이션 컨트롤러를 이용한 화면 전환과 데이터 전송 [github](https://github.com/VincentGeranium/Swift-Example/tree/master/SubmitValue-2)
+
+- 세그웨이와 네비게이션 컨트롤러를 이용한 화면 전환과 데이터 전송을 구현하면서 몰랏던 점과 공부한 내용 정리 [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/04/21/Swift-And-iOS-Study.html)
+
+- 알고리즘 공부 -> 오류발생 수정 필요 [github](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/190421-Algorithm-Practice.playground)
+
+---
+
+# Today Review
+
+하나의 알고리즘 문제를 가지고 2일을 고민해서 풀었는데 테스트 중 1개가 자꾸 틀렸다고 나와서
+왜 틀렸는지 피드백을 요청하였다.
+공부에 속도보다 꼼꼼하고 이해력있게 학습하는것이 더 중요하다고 계속 생각하고 있다.
