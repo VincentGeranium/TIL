@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- 고차함수(추후에 정리해서 업로드 예정)
+- 클로저 기본 정리 [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/04/22/Swift-And-iOS-Study.html)
+- 클로저 (후행 클로저, 반환타입 생략, 단축인자 이름, 암시적 반환 표현), 야곰님 강의 정리 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-22-Closure-Study.playground)
+- 서로 다른 뷰 컨트롤러 사이에서 데이터를 직접 값을 주고 받게 구현 [github](https://github.com/VincentGeranium/Swift-Example/tree/master/SubmitValue-Back)
+
+---
+
+# Today Review
+
+오늘은 하브루타 방식처럼 공부를 하고싶어서 찾아보다가 러버덕 디버깅이라는 것을 발견했는데 그것을 공부에 대입하면 좋겠다는 생각에
+계속 혼잣말을 하면서 학습을 했다.
+그랬더니 정말 놀랍게 학습효과가 너무 좋았다, 아직은 많이 어색하지만 뭐든지 체화되기 전까지는 어렵고 어색한데
+체화가 되면 나만의 학습법이 되고 학습 효과도 좋아질것이다.
