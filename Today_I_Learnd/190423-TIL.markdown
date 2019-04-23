@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- 알고리즘 공부 [github](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/190423-Algorithm-Practice.playground), [Blog post](https://vincentgeranium.github.io/algorithm,/ios,/swift/2019/04/23/Algorithm-Practice.html)
+
+- 클로저 문법 복습 [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/04/23/Closure-Syntax-Study.html)
+
+---
+
+# Today Review
+오늘은 클로저에 대해서 조금 더 문법에 대해 더 알아봤다
+기본적인 구문은 이해가 가는데 축약하는 과정에 대해 조금 더 공부가 필요하다고 느꼇다
+알고리즘 공부는 안풀리다가 풀리는 그 희열을 점점 느끼고 있다
+알고리즘 공부는 재미있어서 계속 풀고 싶어진다
+그리고 알고리즘 공부 후 summary 하는 과정이 더 중요하고 그 과정에 대하여 뭔가 format이 필요하다고
+생각이 들었다
