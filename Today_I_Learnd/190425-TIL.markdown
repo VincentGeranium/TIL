@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- 다른 뷰 컨트롤러와 데이터 주고받기 구현 중 헷갈렷던 부분 따로 정리 [github 내의 전체 코드 링크](https://github.com/VincentGeranium/Swift-Study/tree/master/SubmitValue-Stored), [Blog Post](https://vincentgeranium.github.io/ios,/swift/2019/04/25/iOS-And-Swift-Study.html)
+- UserDefault를 이용하여 뷰 컨드롤러 간의 데이터 전달 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/SubmitValue-UserDefaults)
+- AlertController을 이용한 메세지 출력 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/Msg-AlertController)
+- AlertController내의 textField를 이용하여 입력 필드를 가지는 메세지 창 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/UIAlertController-Study-TextField)
+- AlertController내의 textField를 이용 (메시지 창을 이용한 인증 화면 구성) [github](https://github.com/VincentGeranium/Swift-Study/tree/master/UIAlertController-Study-Login)
+
+---
+
+# Today Review
+
+항상 공부를 하고나서 혹은 구현 후 다시보면 새롭게 느껴진다
+
+그래서 다시금 한번씩 똑같은 구현이라도 만들어보고 그때 모르는 것을 정리하고 있다
+
+확실하게 내가 뭘 모르는지를 알아야 공부가 되는 것 같다
