@@ -36,3 +36,4 @@
 - [190423 - 클로저 축약 문법 공부, 알고리즘 공부](./190423-TIL.markdown)
 - [190424 - class, object, instance 개념 정리, AppDelegate를 이용한 값 주고받기 구현](./190424-TIL.markdown)
 - [190425 - 데이터 전송 관련 정리, UserDefault(데이터 전달),AlertController(메세지 출력, 메세지 창 구현, 로그인)](./190425-TIL.markdown)
+- [190426 - Closure 복습, 알고리즘 공부, 열거형 공부](./190426-TIL.markdown)
