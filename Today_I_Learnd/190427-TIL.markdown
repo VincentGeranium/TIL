@@ -1,0 +1,23 @@
+# Today I Learned
+
+---
+
+- Enumeration 공부, 정리 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-27-enum-Study.playground), [Blog Post](https://vincentgeranium.github.io/ios,/swift/2019/04/27/Enum-Study.html)
+
+- Closure 공부, 정리 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-27-Closure-Study.playground)
+
+- 로컬 알림(UserNotification 프레임워크를 이용한 로컬 알림) 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-27-Msg-Notification-Study)
+
+- 로컬 알림 (UserNotification 프레임워크를 이용한 로컬 알림, Delegate를 이용한 받은 알림 처리) 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-04-27-Msg-Notification-Delegate)
+
+---
+
+# Today Review
+
+오늘은 로칼에서 울리는 알림에 대해 공부하였다.
+
+그리고 스스로 개인프로젝트를 정하였다.
+
+내가 상상한 앱을 직접 혼자 구현하고 출시해보는건데 프로젝트를 시작하면 블로그에 포스팅 하려고 한다.
+
+얼른 공부헤서 개인 프로젝트를 해야겠다는 셍각이다.
