@@ -1,0 +1,16 @@
+# Today I Learned
+
+---
+
+- 네비게이션 컨트롤러와 테이블 뷰 컨트롤러 구현 (이미지와 텍스트를 넣어 테이블 뷰에 띄우는 구현) [github](https://github.com/VincentGeranium/TableView-Navigation-Study)
+- Memory-Memo app (개인프로젝트) 구현 중 [github](https://github.com/VincentGeranium/Memory-Memo-Project)
+
+---
+
+# Today Review
+
+확실히 개인적으로 뭔가를 만들려고 하니까 계속 모르는게 나오고 그것을 반복적으로 보게 되는 것 같다
+
+최고의 학습은, 뭔가를 만드는게 답인것 같다
+
+앱을 만드니 재미있다.
