@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- 랜덤 함수 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/RandomFunction.playground)
+- 테스트 리뷰
+- 개인 프로젝트 Memory-Memo 답 보기 창에서 답이 안나오는 현상 수정중
+
+---
+
+# Today Review
+
+테스트를 봤는데 성적이 좋지 않았다.
+
+내 스스로도 공부를 안했기에 그렇게 나올 줄 알고는 있었지만, 돌아온 피드백이
+
+성적과는 관계없는 나의 대인관계에 대한 말이였다.
+
+내일은 다시 새롭게 시작하는 날이 될 수 있도록 노력해야겠다.
