@@ -1,0 +1,24 @@
+# Today I Learned
+
+---
+
+- 개인 프로젝트 Memory-Memo 싱글톤 클래스 생성 (뷰 간의 데이터 주고 받기 성공) [github](https://github.com/VincentGeranium/Memory-Memo-Project)
+- NotificationCenter 이용하여 데이터 주고 받기
+
+---
+
+# Today Review
+
+마음이 조급해지는게 다시 찾아왔다.
+
+멀리보고 마라톤을 뛰는것처럼 오래 준비할 생각으로 공부를 해야하는데
+
+100m 달리기를 하는 사람처럼 조급하고 마음이 싱숭생숭하다
+
+남들은 다 하는데 나만 못하니까 자꾸 이런 생각이 든다.
+
+오늘 공부는 개인 프로젝트에서 구현을 잘 못했던 것들을 구현했고
+
+NotificationCenter 공부를 하였다
+
+복습이 중요하니 복습도 철저히 항상 하려고 노력하고 있다.
