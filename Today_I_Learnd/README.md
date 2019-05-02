@@ -42,3 +42,4 @@
 - [190429 - 개인 프로젝트 중 답 보기 창 구현 중, 랜덤 함수 정리](./190429-TIL.markdown)
 - [190430 - 개인 프로젝트 구현 중 싱글톤을 이용한 데이터 주고 받기 구현, NotificationCenter 공부](./190430-TIL.markdown)
 - [190501 - UserDefault, Singleton, Notification Center](./190501-TIL.markdown)
+- [190502 - Closure 축약 공부, OOP 예제 구현, Linked List, Stack, Queue, Graph, Tree의 개념 학습, Linked List 로 Stack 구현, 기초 함수 구현 연습](./190502-TIL.markdown)
