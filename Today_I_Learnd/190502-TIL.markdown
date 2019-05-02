@@ -1,0 +1,23 @@
+# Today I Learned
+
+---
+
+- Closure 축약 공부
+- OOP 예제 구현
+- Linked List, Stack, Queue, Graph, Tree의 개념 학습
+- Linked List 로 Stack 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/190502-makeStack.playground)
+- 기초 함수 구현 연습[github](https://github.com/VincentGeranium/Swift-Study/tree/master/190311-Task.playground)
+
+---
+
+# Today Review
+
+하루를 꽉차게 쓴것 같아 기분이 좋다.
+
+오전 6시에 일어나는 습관을 들이는 중이다, 오전 6시에 일어나 기초 문법이나 스위프트 공부를 하고 있다
+
+Closure 축약은 아직도 많이 부족하여 반복적으로 복습하고 있다
+
+OOP에 대한 예제도 계속해서 복습하고 있다
+
+자료구조는 정말 너무 어렵지만 꼭 필요한것이라 느껴서 꾸준히 공부하려 한다.
