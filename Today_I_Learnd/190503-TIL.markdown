@@ -1,0 +1,20 @@
+# Today I Learned
+
+---
+
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Merge Sort
+- Heap Sort
+
+---
+
+# Today Review
+
+알고리즘이 무엇이고 정렬 알고리즘의 대표적인 것들을 배웠는데 나에게는 너무 어려운 부분이였다
+
+왜 알고리즘이 필요하고 알고리즘의 중요도 또한 제대로 느끼게 되어 차근차근히 알고리즘에 대하여
+
+꾸준히 공부해야겠다는 생각이 들었다.
