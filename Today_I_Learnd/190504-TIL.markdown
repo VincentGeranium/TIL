@@ -1,0 +1,21 @@
+# Today I Learned
+
+---
+
+- OOP 예제 구현 복습 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-04-OOP-test.playground)
+- Frame 기본 개념 학습 및 구현
+- 세그먼트, 버튼, 스위치를 이용한 값 변화를 레이블에 띄우기 구현
+
+---
+
+# Today Review
+
+오늘은 프레임에 대한 기본 개념과 구현하는 것과 세그먼트, 버튼, 스위치를 이용하여
+
+값의 변화를 각기 다르게 주고 그 각기 다른 값들을 레이블에 띄우는 것을 구현하였다.
+
+구현에 대한 파일들은 추후에 업로드 할 예정이다. (In Swift-Study repo)
+
+오늘 하루는 조금 공부에 집중하지 못하고 많이 날린듯 하다
+
+다시는 이런 일이 없도록 조금은 더 집중하고 공부하려고 노력해야겠다.
