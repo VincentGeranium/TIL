@@ -44,3 +44,4 @@
 - [190501 - UserDefault, Singleton, Notification Center](./190501-TIL.markdown)
 - [190502 - Closure 축약 공부, OOP 예제 구현, Linked List, Stack, Queue, Graph, Tree의 개념 학습, Linked List 로 Stack 구현, 기초 함수 구현 연습](./190502-TIL.markdown)
 - [190503 - 정렬 알고리즘 중 대표적인 정렬 알고리즘에 대한 공부](./190503-TIL.markdown)
+- [190504 - OOP test 문제 구현, 세그먼트, 버튼, 스위치를 이용한 값의 변화를 레이블에 띄우기 구현, 기본 프레임에 대한 학습](./190504-TIL.markdown)
