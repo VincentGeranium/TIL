@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- 세그먼트, 버튼, 스위치를 이용한 값 변화를 레이블에 띄우기 구현 (190504) [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-04-SegmentSwitchAndButton)
+- Frame 기본 개념 학습 및 구현 (190504) [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-04-FrameStudy)
+- AlertController 을 이용한 값의 변화를 레이블에 띄우기 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-05-AlertContorller-Study)
+
+---
+
+# Today Review
+
+언어적인 부분에 자신이 없었는데 계속해서 무언가를 만들어보고 구현해보고 다른 사람의 코드를 보고 생각해보는 시간이 길어지니
+
+훨씬 공부도 재미있고, 공부하는 시간도 조금씩 길어졌다
+
+뭔가 직접 앱을 만들어보고 구현해보고 싶은데, 아직 많이 부족하다는 생각에 시도를 하지 않고 있다.
+
+이번에 시도해 봐야겠다는 생각을 했다.
