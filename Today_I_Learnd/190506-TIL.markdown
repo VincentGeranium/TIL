@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- 뷰 컨트롤러 간의 데이터 전송과 키보드 입력 상태에 따른 각기 다른 기능 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-06-TextFieldAndTransferData)
+- 세그웨이를 이용한 화면 전환과 그에 따른 데이터 전송 기능 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-06-SegueStudy)
+- 세그먼트 컨트롤러의 인덱스에 따른 값을 세그웨이 unwind로 다른 뷰에 전송 기능 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-06-UISegmentControllerStudy)
+
+---
+
+# Today Review
+
+요근래에는 문법이나 다른 언어적 공부보다는 구현에 초점을 맞추고 공부하는 중이다
+
+항상 기초 문법이 완벽하지 않으면 안된다는 강박관념이 있었으나 구현을 하며 공부를하니까
+
+모르면 찾아보고 알면 계속해서 써 나아가는 코딩 공부가 되어 너무 재미있다
+
+이러한 공부법에 초점을 두고 계속해서 해야겠다.
