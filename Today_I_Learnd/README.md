@@ -47,3 +47,4 @@
 - [190504 - OOP test 문제 구현, 세그먼트, 버튼, 스위치를 이용한 값의 변화를 레이블에 띄우기 구현, 기본 프레임에 대한 학습](./190504-TIL.markdown)
 - [190505 - AlertController 을 이용한 값의 변화를 레이블에 띄우기 구현](./190505-TIL.markdown)
 - [190506 - 뷰 컨트롤러 간의 데이터 전송과 키보드 입력 상태에 따른 각기 다른 기능 구현, 세그웨이를 이용한 화면 전환과 그에 따른 데이터 전송 기능 구현, 세그먼트 컨트롤러의 인덱스에 따른 값을 세그웨이 unwind로 다른 뷰에 전송 기능 구현](./190506-TIL.markdown)
+- [190507 -  About Segue(세그웨이의 각각의 기능과 메소드들 정리), GestureRecognizer, ImagePickerController](./190507-TIL.markdown)
