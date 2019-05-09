@@ -1,0 +1,18 @@
+# Today I Learned
+
+---
+
+- UIImagePickerController를 이용한 카메라 접근, 앨범 접근, 비디오 기능 구현 [github](https://github.com/VincentGeranium/Swift-Study)
+- Singleton 패턴을 이용한 데이터 전송 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-09-Singleton-Study)
+
+---
+
+# Today Review
+
+UIImagePickerController를 이용한 카메라 접근, 앨범 접근, 비디오 기능 구현 다시 코드를 상세히 볼 필요가 있다
+
+Singleton 패턴을 응용해서 다른 기능들을 구현해 볼 필요가 있다
+
+복습의 중요성을 많이 느낀다.
+
+
