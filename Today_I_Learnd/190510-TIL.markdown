@@ -1,0 +1,21 @@
+# Today I Learned
+
+---
+
+- Singleton pattern (싱글톤 패턴) [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-10-Singleton-Study.markdown), [Blog Post](https://vincentgeranium.github.io/ios,/swift/2019/05/10/Singleton-Study.html)
+
+- Singleton pattern을 이용하여 UISlider의 값으로 화면의 색상 조정하기 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-10-UISlider-Study)
+
+- MapKit을 이용한 여러 기능 구현 -> 추후에 기능 구현 파일 올릴 예정
+
+---
+
+# Today Review
+
+singleton pattern에 대해 공부하고 그에 대한 직접 구현도 해보았다
+
+항상 구현은 그때 그때 하지만 다시 해보면 어려울때가 있다
+
+그래서 역시 항상 복습의 중요성과 모르면 다시 해보는 반복 횟수의 중요성 또한 다시금
+
+알게 되었다.
