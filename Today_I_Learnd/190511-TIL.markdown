@@ -1,0 +1,23 @@
+# Today I Learned
+
+---
+
+- type property 공부 -> 정리 후 업로드 예정
+- userdefault 를 이용한 뷰 간의 데이터 전송 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-11-UserDefault-Study)
+- userDefault 개념 정리 -> 정리 후 업로드 예정
+
+---
+
+# Today Review
+
+내가 알고싶어했던 것이나 안풀리던 문제에 대한 방법을 찾아 직접 구현해보고
+
+그 문제를 해결해 나아가는 과정이 이렇게 재미있는 줄 몰랐다
+
+UserDefault에 대해서 책으로만 보고 넘겼는데, 무슨 말인지 도통 모르겠다가도
+
+직접 문제에 봉착하고 그게 이 UserDefault로 해결하는 문제였구나 하고 직접 그 문제를
+
+UserDefault를 이용해 다시 해결하니 모르고 넘어가거나 가볍게 생각하고 까먹었던 UserDefault의 내용들도 
+
+머리 속에 더욱 더 잘 자리잡고 공부하는것 같지 않게 재미가 있다.
