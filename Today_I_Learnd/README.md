@@ -50,3 +50,4 @@
 - [190507 -  About Segue(세그웨이의 각각의 기능과 메소드들 정리), GestureRecognizer, ImagePickerController](./190507-TIL.markdown)
 - [190508 - 탭, 로테이션, 스와이프에 따른 이미지의 변환 기능 구현](./190508-TIL.markdown)
 - [190509 - UIImagePickerController를 이용한 카메라 접근, 앨범 접근, 비디오 기능 구현, Singleton 패턴을 이용한 데이터 전송 구현](./190509-TIL.markdown)
+- [190511 - UserDefaults 를 이용한 뷰 간의 데이터 전송, Type Property 개념 정리, UserDefaults 개념정리](./190511-TIL.markdown)
