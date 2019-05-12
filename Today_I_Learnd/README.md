@@ -51,3 +51,4 @@
 - [190508 - 탭, 로테이션, 스와이프에 따른 이미지의 변환 기능 구현](./190508-TIL.markdown)
 - [190509 - UIImagePickerController를 이용한 카메라 접근, 앨범 접근, 비디오 기능 구현, Singleton 패턴을 이용한 데이터 전송 구현](./190509-TIL.markdown)
 - [190511 - UserDefaults 를 이용한 뷰 간의 데이터 전송, Type Property 개념 정리, UserDefaults 개념정리](./190511-TIL.markdown)
+- [190512 - Delegate pattern을 이용한 뷰 컨트롤러 간의 데이터 전송 구현, 타입 프로퍼티 개념 정리 포스트](./190512-TIL.markdown)
