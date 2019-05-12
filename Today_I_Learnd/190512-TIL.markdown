@@ -1,0 +1,29 @@
+# Today I Learned
+
+---
+
+- Type Property에 대한 개념 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-12-Type-Property-Study.markdown), [Blog Post](https://vincentgeranium.github.io/ios,/swift/2019/05/12/Type-Property-Study.html)
+
+- Delgate 패턴을 이용한 각기 다른 뷰 간의 데이터 전송 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-12-Delegate-Study)
+
+- Delegate 패턴에 대한 개념 정리 ->  추후에 업로드 예정
+
+---
+
+# Today Review
+
+타입 프로퍼티에 대한 개념 정리를 다시금하니 까먹엇던 점이나 다시 보니 처음 봤을때 보다
+
+이해되는 말들이 더욱더 많아졌다, 그래서 그런지 타입 프로퍼티에 대한 이해도가
+
+처음 타입프로퍼티에 대한 공부를 할때보다 확실히 많이 올라간 느낌이다
+
+그리고
+
+델리게이트 패턴에 대한 개념이 아직 확실하지 않아서
+
+구현을 하고 나서도 뭔가 궁굼점들이 많이 남아있는 상태이다
+
+델리게이트에 대한 확실한 개념 정리와 함께 다시금 다른 코드로 뷰 간의 데이터 전송을 하는
+
+구현을 해봐야겠다는 생각을 했다.
