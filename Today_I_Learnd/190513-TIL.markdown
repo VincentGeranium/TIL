@@ -1,0 +1,20 @@
+# Today I Learned
+
+---
+
+- delegate 패턴을 이용한 뷰 안의 레이블 값 변경, 버튼을 이용한 값 변경 구현 비교 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-13-DelegatePattern-Study)
+- 친구 추가 화면 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-13-makeFriend-Page)
+
+---
+
+# Today Review
+
+델리게이트 패턴을 이용한 여러 구현을 계속해서 하는 중인데
+
+계속해서 델리게이트 패턴을 이용하다보니 조금씩 익숙해져가는 느낌이든다
+
+그리고 새로운 메소드를 알아가면서 그 메소드가 어떤 기능을하는지도
+
+다시금 개념정리나 공부가 필요하다고 느꼈고
+
+탭바 컨트롤러와 앱의 생명주기에 대해서 다시 공부하고 개념을 확실히 잡아야겠다는 생각을 했다
