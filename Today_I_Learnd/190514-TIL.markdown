@@ -1,0 +1,27 @@
+# Today I Learned
+
+---
+
+- AppDelegate 에 대한 개념 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-14-AppDelegate-Study.markdown) , [blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/14/AppDelegate-Study.html)
+
+- UITabBarController -> 개념 정리 후 업로드 예정
+
+- UIView Animation [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-14-UIViewAnimation-Study)
+
+---
+
+# Today Review
+
+오늘은 델리게이트에 대한 개념 정리와 탭바 컨트롤러에 대해 글로서 공부햇다
+
+델리게이트 패턴은 지금까지 조금씩이나마 구현을 해봤는데
+
+탭바 컨트롤러는 따로 구현을 많이 안해봐서 글로만 봐서는 채득된것인지 모르겠으므로
+
+탭바 컨트롤러를 직접적으로 구현해보면서 공부해 봐야겠다는 생각을 했다
+
+그리고 뷰의 애니매이션을 이용한 버튼의 움직임이나 중첩하는 방법등을 공부하고 구현해봤다
+
+항상 새로운 것을 배우는 것은 재미있다.
+
+배우면 복습하고 내것으로 만드는 과정이 조금은 고단하고 힘들지만 그마저도 재미있다.
