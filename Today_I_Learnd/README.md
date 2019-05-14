@@ -53,3 +53,4 @@
 - [190511 - UserDefaults 를 이용한 뷰 간의 데이터 전송, Type Property 개념 정리, UserDefaults 개념정리](./190511-TIL.markdown)
 - [190512 - Delegate pattern을 이용한 뷰 컨트롤러 간의 데이터 전송 구현, 타입 프로퍼티 개념 정리 포스트](./190512-TIL.markdown)
 - [190513 - 델리게이트 패턴을 이용한 뷰 내에서의 값 변경과 버튼 액션으로 값 변화 비교, 친구 추가 구현](./190513-TIL.markdown)
+- [190514 - 델리게이트 패턴 개념정리, 탭바 컨트롤러 개념 공부, UIView Animation을 이용한 버튼의 중첩 구현](./190514-TIL.markdown)
