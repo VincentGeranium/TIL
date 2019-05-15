@@ -1,0 +1,20 @@
+# Today I Learned
+
+---
+
+- tabBarController를 이용하여 뷰를 만들고 버튼 액션으로 그 뷰간의 이동 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-15-TapBarController-Study)
+
+- tabBarController에 대한 간략한 설명 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-15-UITabBarController.markdown), [blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/15/UITabBarController.html)
+    - 추후에 더 궁굼하거나 공부할 점은 정리하여 업로드 예정
+
+---
+
+# Today Review
+
+탭바 컨트롤러에 대한 아주 간략한 설명에 대한 정리와 구현을 해봤다
+
+탭바 컨트롤러에 대한 구현을 더 많이해서 학습에 도움이 되어야겠다는 생각과
+
+네비게이션 컨드롤러에 대한 복습과 탭바와 네비게이션을 함께 사용하는 방법도
+
+따로 공부해야겠다는 생각을 했다.
