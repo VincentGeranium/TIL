@@ -56,3 +56,4 @@
 - [190514 - 델리게이트 패턴 개념정리, 탭바 컨트롤러 개념 공부, UIView Animation을 이용한 버튼의 중첩 구현](./190514-TIL.markdown)
 - [190515 - 탭바 컨트롤러에 대한 간략한 정리, 탭바 컨트롤러를 이용한 뷰 이동](./190515-TIL.markdown)
 - [190516 -  UIImagePicker, tap gesture recognizer, 뷰 애니메이션을 이용한 슬랙 워크스페이스 생성 페이지 따라하기](./190516-TIL.markdown)
+- [190517 - UIImagePicker 을 이용한 앨범 열기, 이미지 가져오기 구현, GestureRecognizer method를 이용하여 각 method의 호출시점 확인,Tap gesture recognizer 와 touchesBegan 간의 호출 시점과 호출 시점 비교, GestureRecognizer와 touchesBegan에 대한 간략한 정리, ImageView를 Tap 하여 PhotoLibrary 불러오기](./190517-TIL.markdown)
