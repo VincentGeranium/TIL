@@ -1,0 +1,28 @@
+# Today I Learned
+
+---
+
+- UIImagePicker 을 이용한 앨범 열기, 이미지 가져오기 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-17-UIImagePicker-Study)
+
+- GestureRecognizer method를 이용하여 각 method의 호출시점 확인 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-17-TapGestureRecognizer)
+
+- Tap gesture recognizer 와 touchesBegan 간의 호출 시점과 호출 시점 비교 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-17-GestureRecoginze-StoryBoard)
+
+- GestureRecognizer와 touchesBegan에 대한 간략한 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-17-StudyAboutGesture.markdown), [blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/17/StudyAboutGesture.html)
+
+- ImageView를 Tap 하여 PhotoLibrary 불러오기 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-17-GestureRecognizerAndUIImagePicker)
+
+---
+
+# Today Review
+
+요즘 Start Developing iOS Apps (Swift)에서 앱을 따라 만드는 학습을 하는데
+
+여기에 나와있는 설명들이 거의 옛날거라서 지금 스위프트와 안맞는 문법이나 여러 메소드들이 있어
+
+계속 중간 중간 멈추는 중인데 그 중에서 이미지 뷰를 눌러 앨범을 띄우는 과정에서
+
+너무 달라서 지금까지 계속 그 부분에 대한 공부를 하나씩 해 나아가고 있다
+
+그래서 해결책을 찾아서 그 부분을 넘어가게 되었다
+
