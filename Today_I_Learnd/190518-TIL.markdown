@@ -1,0 +1,24 @@
+# Today I Learned
+
+---
+
+- Start Developing iOS Apps (Swift)내의 FoodTracker app 구현 중 Work with View Controllers에서 ImageView 탭 시 Photo Library 열리는 구현
+- UIImagePicker
+- UIStackView
+- @IBDesignable
+
+---
+
+# Today Review
+
+애플 도큐먼테이션에 나온 앱을 만드는 과정에서 현재의 스위프트와 맞지 않는 버전 차이와 그에 따른
+
+문법의 차이가 너무 많아 일일히 다 고쳐가고 모르는것은 알아보며 구현하고 있어서
+
+조금 시간이 많이 걸린다.
+
+예를들어 버튼 클릭시 콘솔창에 프린트 명령을 수행하는 과정에서
+
+콘솔창에 안뜨는 이유를 찾고있으며 처음 본 @IBDesignable class 에 대해서도 따로 개념 정리가
+
+필요 할 듯 하다.
