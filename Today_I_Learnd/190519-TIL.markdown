@@ -1,0 +1,33 @@
+# Today I Learned
+
+---
+
+- @IBDesignable과 @IBInspectable을 이용한 View 테두리 만들고 색 변경하기 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-19-IBDesignable-And-IBInspectable), [blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/19/Study-@IBDesignable-AND-@IBInspectable.html)
+- Initializer -> 추후에 개념 정리 후 업로드 예정
+- Access Control -> 추후에 개념 정리 후 업로드 예정
+- FoodTracker app의 3가지 별 이미지를 넣고 별점 주는 기능 구현
+- UIWindow에 대한 개념 공부 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/tree/master/_posts), [blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/19/StudyAboutUIWindow.html)
+
+---
+
+# Today Review
+
+항상 익숙해져야 한다는 생각이 크다
+
+했던것을 반복하여 '아 그거 만들어야지' 했을때 그냥 탁 코드를 만들 수 잇을 정도의
+
+**체화**가 되어야 된다고 생각한다
+
+그래서 지금은 어떤것들이 있고 어떤것들을 활용해야 그 결과물이 나오고 구현이 되는지를
+
+배우는 과정이라고 생각한다
+
+조급하게 생각하지 않고 꾸준히 계속해서 반복하는 학습 과정을 목표로 삼으려 한다
+
+그래서 오늘은 새로운 @IBDesignable과 @IBInspectable에 대해 개념적인 부분에 대한 공부와 직접 구현
+
+그리고 계속 봐왔던 Initializer에 여러가지 각각의 개념, Access Control의 개념에 대해 다시 보았고 추후에
+
+정리하여 다시 포스트 할 예정이다 그리고 UIWindow에 대해 다시금 알게 되었고
+
+앱의 생명주기에 대한 이해와 복습도 다시 필요하다고 느꼈다.
