@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- Computed-Property 공부 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-20-Computed-Property.markdown), [blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/20/Computed-Property.html)
+
+- UnitTest의 사용법 -> 추후에 정리 후 업로드 예정
+
+- Kakao API를 활용한 Login 페이지 구현 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-20-kakaoLogin-Study)
+
+- Start Developing iOS Apps (Swift)의 푸드 트래커 앱 내의 테이블 뷰 구현
+
+---
+
+# Today Review
+
+아직 구현이 생각대로 딱 나오지 않고 따라 치고 코드를 이해하는 정도라서
+
+스스로 작은 것이라도 계속해서 만들어 보는것이 중요하다고 생각이 들었다
