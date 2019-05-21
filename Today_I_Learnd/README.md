@@ -60,3 +60,4 @@
 - [190518 - Start Developing iOS Apps (Swift)내의 FoodTracker app 구현 중 Work with View Controllers에서 ImageView 탭 시 Photo Library 열리는 구현, UIImagePicker, UIStackView, @IBDesignable](./190518-TIL.markdown)
 - [190519 - @IBDesignable과 @IBInspectable을 이용한 View 테두리 만들고 색 변경하기 구현, Initializer, Access Control, FoodTracker app의 3가지 별 이미지를 넣고 별점 주는 기능 구현, UIWindow에 대한 개념 공부](./190519-TIL.markdown)
 - [190520 - Computed-Property 공부, UnitTest의 사용법, Kakao API를 활용한 Login 페이지 구현, Start Developing iOS Apps (Swift)의 푸드 트래커 앱 내의 테이블 뷰 구현](./190520-TIL.markdown)
+- [190521 - UICollectionView를 이용한 레이블 31가지 나열하기, UICollectionView를 이용하여 이미지 나타내기, GCD(Grand Central Dispatch), Closure (CaptureList, NoEscaping ,Escaping ,MemoryLeak ,AutoClosure)](./190521-TIL.markdown)
