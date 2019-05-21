@@ -1,0 +1,28 @@
+# Today I Learned
+
+---
+
+- UICollectionView를 이용한 레이블 31가지 나열하기 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-21-UICollectionView-Study)
+
+- UICollectionView를 이용하여 이미지 나타내기 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-21-UICollectionView-Image-Study)
+
+- GCD(Grand Central Dispatch) -> 추후에 정리 후 업로드 예정
+
+- Closure (CaptureList, NoEscaping ,Escaping ,MemoryLeak ,AutoClosure) -> 추후에 정리 후 업로드 예정
+
+---
+
+# Today Review
+
+
+UICollectionView를 이용한 구현을 중점적으로 공부해봤다
+
+여러 기능들을 구현 할 때마다 다른 기능들이나 코드들을 조합해서 하나의 기능이 아닌
+
+여러가지 기능들을 구현봐야겠다는 생각이 든다
+
+오늘 GCD와 Closure의 문법 중 고급 문법을 공부했는데
+
+이해가 안가는 부분이 거의 80프로 이상이다
+
+복습을 정말 열심히 해야겠다는 생각을 했다.
