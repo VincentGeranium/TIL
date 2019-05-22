@@ -1,0 +1,22 @@
+# Today I Learned
+
+---
+
+- UIImagePicker
+- AutoLayout by code -> 코드만으로 오토레이아웃 잡기
+- tapGestureRecognizer -> 코드만으로 탭 제스쳐 구현
+- Alert Sheet -> 얼럿 싯트 구현
+- 카메라, 앨범 사용하기 구현
+- textField, Label 띄우기
+
+---
+
+# Today Review
+
+오늘은 지금까지 공부했던 여러 기능들을 이용하여 앱을 구현하는 느낌으로 공부를 했다
+
+이렇게 하니 각각 다른 기능들을 하는 코드들을 다시 유기적으로 함께 구동 될 수 있도록 코딩을 하다보니
+
+더욱이 코드를 깊게 관찰하게되고 몰랐던 부분이나 알았던 부분도 다시 보게되어
+
+엄청 좋은 공부가 되었다.
