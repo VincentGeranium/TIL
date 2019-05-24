@@ -1,0 +1,25 @@
+# Today I Learned
+
+---
+
+- firebase (data base)
+- mapkit
+- mobilecoreservices
+- core data
+- hpgradientloading
+- core-location
+- fishing point app 구현
+
+---
+
+# Today Review
+
+오늘은 파트너와 함께 해커톤 형식으로 같이 코딩을 해 보았다
+
+아무래도 나보다 훨씬 잘하고 많이 아는 파트너라서 그런지 몰라도
+
+배울점이 너무 많았다
+
+일단 먼저 공부법이나 여러가지 코딩 스타일이나 MVC 를 나누는 것 까지
+
+파트너 덕분에 정말 여러가지로 많은 도움과 공부가 된 하루였다.
