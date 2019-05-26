@@ -64,3 +64,4 @@
 - [190522 - UIImagePicker, AutoLayout by code, tapGestureRecognizer, Alert Sheet, 카메라, 앨범 사용하기 구현, textField, Label](./190522-TIL.markdown)
 - [190523 - ImageView ContentMode에 따른 이미지 리사이징 구현, textField Delegate, present, dismiss를 이용한 데이터 전송, mapkit을 이용한 현재 위치 찾기, 현재 위치 레이블에 띄우기 -> CLGeocoder를 이용, AutoLayout -> code로만](./190523-TIL.markdown)
 - [190524 - firebase (data base), mapkit, mobilecoreservices, core data, hpgradientloading, core-location, fishing point app 구현](./190524-TIL.markdown)
+- [190525 - MVC 패턴, Tab Bar Controller, Navigation Controller](./190525-TIL.markdown)
