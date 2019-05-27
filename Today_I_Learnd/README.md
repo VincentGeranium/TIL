@@ -66,3 +66,4 @@
 - [190524 - firebase (data base), mapkit, mobilecoreservices, core data, hpgradientloading, core-location, fishing point app 구현](./190524-TIL.markdown)
 - [190525 - MVC 패턴, Tab Bar Controller, Navigation Controller](./190525-TIL.markdown)
 - [190526 - TabBarController, NavigationController, UIWindow by code -> 코드로만 구현](./190526-TIL.markdown)
+- [190527 - 스토리보드 이용하지 않고 코드로만 레이블 띄워보기, MVC 패턴 개념 정리, Window와 Label 그리고 Button, AutoLayout으로 잡고 코드로 모두 구현하기](./190527-TIL.markdown)
