@@ -67,3 +67,4 @@
 - [190525 - MVC 패턴, Tab Bar Controller, Navigation Controller](./190525-TIL.markdown)
 - [190526 - TabBarController, NavigationController, UIWindow by code -> 코드로만 구현](./190526-TIL.markdown)
 - [190527 - 스토리보드 이용하지 않고 코드로만 레이블 띄워보기, MVC 패턴 개념 정리, Window와 Label 그리고 Button, AutoLayout으로 잡고 코드로 모두 구현하기](./190527-TIL.markdown)
+- [190528 - AVFoundation 프레임워크의 AVAudioPlayer, AutoLayout 코드로 잡기, MVC Pattern 복습, Asset Catalog, app slicing, app thinning 정리](./190528-TIL.markdown)
