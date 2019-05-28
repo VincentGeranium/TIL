@@ -1,0 +1,21 @@
+# Today I Learned
+
+---
+
+- AVFoundation 프레임워크의 AVAudioPlayer
+- AutoLayout 코드로 잡기
+- MVC Pattern
+- Asset Catalog, app slicing, app thinning [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-28-Asset-Catalog-Study.markdown), [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/28/Asset-Catalog-Study.html)
+
+---
+
+# Today Review
+
+오늘은 부스트코스에서 야곰님께서 하시는 강의를 보고 따라해봤다
+
+처음보는 프레임워크인 AVFoundation을 써보게 되어서 너무 좋았고
+
+야곰님 강의는 스토리보드를 이용하여 강의를 하시는데 일단 끝까지 야곰님 강의를 듣고
+
+프로젝트를 완성시켜보고 그 후에 스스로 코드로만 짜는 프로젝트를 따로 만들려고 한다.
+
