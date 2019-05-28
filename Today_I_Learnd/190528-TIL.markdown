@@ -5,7 +5,7 @@
 - AVFoundation 프레임워크의 AVAudioPlayer
 - AutoLayout 코드로 잡기
 - MVC Pattern
-- Asset Catalog, app slicing, app thinning [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-28-Asset-Catalog-Study.markdown), [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/28/Asset-Catalog-Study.html)
+- Asset Catalog, app slicing, app thinning 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-28-Asset-Catalog-Study.markdown), [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/28/Asset-Catalog-Study.html)
 
 ---
 
