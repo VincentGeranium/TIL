@@ -1,0 +1,27 @@
+# Today I Learned
+
+---
+
+- Swift Basic Syntax -> guard와 if문의 차이 (정리 후에 업로드 예정)
+
+- Type Casting -> is와 as (정리 후에 업로드 예정)
+
+- 스위프트에서 오류 처리
+
+- closure
+
+- 함수형 프로그래밍에 대하여 -> 정리 후에 업로드
+
+- 부스트코스 iOS Music Player 만들기, 스토리보드 이용 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-29-MusicPlayer)
+
+- 부스트코스 iOS Music Player 만들기, 코드만 이용 -> 레이블, 버튼, 슬라이더 올리고 이미지 올리고, 오토레이아웃까지 진행
+
+---
+
+# Today Review
+
+부스트코스 iOS 강의 중 음악 재생 앱을 만드는 강의를 보고 나서,
+
+이제 다 만들어진 (스토리보드를 이용하여) 앱을 코드로만 구현하는 과정을 스스로 하고 있다
+
+그러다보니 몰랐던것들이나 부족한 점들이 많이 보여 그 점들을 다시 중점적으로 공부하였다
