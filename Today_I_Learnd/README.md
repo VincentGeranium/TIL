@@ -68,3 +68,4 @@
 - [190526 - TabBarController, NavigationController, UIWindow by code -> 코드로만 구현](./190526-TIL.markdown)
 - [190527 - 스토리보드 이용하지 않고 코드로만 레이블 띄워보기, MVC 패턴 개념 정리, Window와 Label 그리고 Button, AutoLayout으로 잡고 코드로 모두 구현하기](./190527-TIL.markdown)
 - [190528 - AVFoundation 프레임워크의 AVAudioPlayer, AutoLayout 코드로 잡기, MVC Pattern 복습, Asset Catalog, app slicing, app thinning 정리](./190528-TIL.markdown)
+- [190529 - Swift Basic Syntax -> guard와 if문의 차이,  Type Casting -> is와 as, 스위프트에서 오류 처리, 함수형 프로그래밍에 대하여, 부스트코스 iOS Music Player 만들기( 스토리보드 이용), 부스트코스 iOS Music Player 만들기, 코드만 이용 -> 레이블, 버튼, 슬라이더 올리고 이미지 올리고, 오토레이아웃까지 진행](./190529-TIL.markdown)
