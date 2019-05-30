@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- guard와 if문의 차이에 대한 간략한 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-30-guard-AND-if.markdown), [blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/30/guard-AND-if.html)
+
+- edwith music player 코드로만 만들기 -> 122 line error 수정 필요 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-05-30-MusicPlayer_use_Code)
+
+---
+
+# Today Review
+
+배우고 공부했던 것들을 실제로 사용해보려고 하면 예시나 예제와는 다른 많은 것들이 일어나서
+
+항상 에러와 씨름한다, 이렇게 에러를 해결하고 나면 완전히 내 공부가 되는것을 많이 느끼는 요즘
+
+디버깅은 정말 긴싸움이지만 최고의 공부라고 생각하고 열심히 계속 공부하려 한다.
