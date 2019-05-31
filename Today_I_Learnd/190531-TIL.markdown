@@ -1,0 +1,27 @@
+# Today I Learned
+
+---
+
+- type casting 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-05-31-TypeCasting.markdown), [blog post](https://vincentgeranium.github.io/ios,/swift/2019/05/30/TypeCasting.html)
+
+- Dependency Manager (CocoaPods, Carthage) -> 설치방법 및 활용법
+
+- NetWork 이론 -> 추후에 정리 후 업로드 예정
+
+---
+
+# Today Review
+
+오늘은 의존성 관리에 관한 CocoaPods와 Carthage 에 대한 설치방법과 활용법에 대하여 알아보고
+
+네트워크의 가장 기본적인 이론들에 대하여 알아보았다
+
+특히 알지 못했지만 관심이 있었던 네트워크 이론에 대한 공부가 가장 흥미롭고 재미있었다
+
+시간이 된다면 네트워크에 관한 공부도 따로 더 해보고 싶은 생각과 오늘 공부한 내용을
+
+따로 간략하게 정리하여 업로드 해야겠다는 생각을 했다
+
+오늘은 이론 공부에 초점을 맞추다 보니 구현을 하며 학습하는 것을 많이 하지 못하였다
+
+일단 edwith의 강의를 다시 시작해야 겠다는 생각을 했다.
