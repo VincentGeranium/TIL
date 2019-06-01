@@ -4,8 +4,22 @@
 
 - AVFoundation과 Timer 클래스에 관한 간략한 정리
 
-- 
+- music player app 코드로 재구현 -> 190602-윈도우 생성, 버튼 오토레이아웃, 버튼 이미지 올림 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/music_player_By_code_2)
 
 ---
 
 # Today Review
+
+edwith 강의를 다시 보면서 코드로만 구현하는 학습을 시작하였고
+
+강의 중 중요 학습 포인트나 정리 되어 있는 글을 참고하여
+
+내가 알아보기 쉽게 따로 정리하였다
+
+따로 코드로 구현하는 이유는 따라하다가 모르는 메소드들의
+
+기능들이 있어서 그 메소드를 조금 더 상세히 보기 위함과
+
+내가 직접 이해하면서 코딩을 하는 학습이 코딩공부에 굉장히 유익하기 때문에
+
+다시 한번 더 이 앱을 코드로 구현 하는 학습을 이어나갈 생각이다
