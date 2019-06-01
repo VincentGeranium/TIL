@@ -71,3 +71,4 @@
 - [190529 - Swift Basic Syntax -> guard와 if문의 차이,  Type Casting -> is와 as, 스위프트에서 오류 처리, 함수형 프로그래밍에 대하여, 부스트코스 iOS Music Player 만들기( 스토리보드 이용), 부스트코스 iOS Music Player 만들기, 코드만 이용 -> 레이블, 버튼, 슬라이더 올리고 이미지 올리고, 오토레이아웃까지 진행](./190529-TIL.markdown)
 - [190530 - guard와 if문의 차이에 대한 간략한 정리, edwith music player 코드로만 만들기 -> 122 line error 수정 필요](./190530-TIL.markdown)
 - [190531 - type casting 정리, Dependency Manager (CocoaPods, Carthage) -> 설치방법 및 활용법, NetWork 이론](./190531-TIL.markdown)
+- [190601 - AVFoundation과 Timer 클래스에 관한 간략한 정리,  music player app 코드로 재구현 -> 190602-윈도우 생성, 버튼 오토레이아웃, 버튼 이미지 올림](./190601-TIL.markdown)
