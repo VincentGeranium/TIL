@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- Error 처리하기
+
+- edwith 부스트코스 회원가입 화면 구현 ->  Human Interface Guidelines
+
+---
+
+# Today Review
+
+부스트코스의 첫번째 프로젝트인 음악 재생 어플리케이션 만들기를 코드로 구현 중인데
+
+그 코드로만 구현하던 도중에 Error 처리 (do-catch) 구문이 나와서 이에 대한 공부를 하였고
+
+do-catch 뿐만 아니라 다른 오류 처리에 대한 학습도 같이 알아보았다
