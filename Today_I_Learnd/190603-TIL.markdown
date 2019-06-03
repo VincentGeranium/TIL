@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- AVFoundation, Timer -> edwith 강의 듣고 강의 자료 참고하여 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-03-AVFoundation-And-Timer.markdown), [Blog Post](https://vincentgeranium.github.io/swift,/ios/2019/06/03/AVFoundation-And-Timer.html)
+
+---
+
+# Today Review
+
+오늘은 AVFoundation 과 Timer 에 대하여 정리된 글을 다시 한번 내가 보기 좋은 형식으로
+
+정리하였다.
+
+이렇게 정리로만 끝나면 항상 다시 잊기 쉬운 느낌이라서
+
+다음부터는 뭔가 이론적인 부분에 대하여 공부를 하거나 정리를 하면
+
+꼭 여러번 그 내용으로 구현을 하는 습관을 들여야겠다는 생각을 했다.
