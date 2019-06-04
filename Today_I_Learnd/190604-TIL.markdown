@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- 코코아와 코코아터치에 대한 간략한 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-04-CocoaTouch.markdown), [Blog post](https://vincentgeranium.github.io/swift,/ios/2019/06/04/CocoaTouch.html)
+
+- UIKit에 대한 간략한 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-04-UIKit.markdown), [Blog Post](https://vincentgeranium.github.io/swift,/ios/2019/06/04/UIKit.html)
+
+---
+
+# Today Review
+
+오늘도 edwith의 강좌 내용을 간단하게 정리 요약하는 학습을 했다
+
+특히 어제 있었던 WWDC 2019에 대한 나의 느낀점을 정리하고 포스트를 마무리 하는 과정이라
+
+구현하는 학습에 대한 신경을 못썻다
+
+구현을 많이해야 실력이 느는데 자꾸 게을러져서 큰일이다
