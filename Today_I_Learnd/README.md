@@ -74,3 +74,4 @@
 - [190601 - AVFoundation과 Timer 클래스에 관한 간략한 정리,  music player app 코드로 재구현 -> 190602-윈도우 생성, 버튼 오토레이아웃, 버튼 이미지 올림](./190601-TIL.markdown)
 - [190602 - Error 처리하기, edwith 부스트코스 회원가입 화면 구현 ->  Human Interface Guidelines](./190602-TIL.markdown)
 - [190603 - AVFoundation 과 Timer 개념 정리](./190603-TIL.markdown)
+- [190604 - 코코아와 코코아터치에 대한 간략한 정리, UIKit에 대한 간략한 정리](./190604-TIL.markdown)
