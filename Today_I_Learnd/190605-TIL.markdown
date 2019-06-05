@@ -1,0 +1,23 @@
+# Today I Learned
+
+---
+
+- WWDC 2019 -> iOS 에 대한 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-05-WWDC-2019.markdown), [blog post](https://vincentgeranium.github.io/swift,/ios/2019/06/05/WWDC-2019.html)
+
+- JSONSerialization
+
+- Codable
+
+---
+
+# Today Review
+
+너무 많이 게을러졌다.
+
+항상 열심히 하려고 한다 생각했는데 TIL을 보다보니 많이 게을러졌다는게 확실히 느껴진다
+
+구현에 집중하고 코드를 항상 쳐보는 학습법을 해야 한다는것을 알지만
+
+사람이 게을러지니 이렇게 많이 공부를 안하게 된다
+
+다시 반성하고, 다시금 구현에 초점을 맞추어 공부해야겠다
