@@ -76,3 +76,4 @@
 - [190603 - AVFoundation 과 Timer 개념 정리](./190603-TIL.markdown)
 - [190604 - 코코아와 코코아터치에 대한 간략한 정리, UIKit에 대한 간략한 정리](./190604-TIL.markdown)
 - [190605 - WWDC 2019 -> iOS 에 대한 정리, JSONSerialization, Codable](./190605-TIL.markdown)
+- [190606 - Foundation Framework 에 대한 간략한 정리, AutoLayout에 대한 간략한 정리와 실제 구현해보기](./190606-TIL.markdown)
