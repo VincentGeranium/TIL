@@ -1,0 +1,27 @@
+# Today I Learned
+
+---
+
+- Foundation Framework 에 대한 간략한 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-06-FoundationFramework.markdown), [blog post](https://vincentgeranium.github.io/swift,/ios/2019/06/06/FoundationFramework.html)
+
+- AutoLayout에 대한 간략한 정리와 실제 구현해보기 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-06-AutoLayout.markdown), [blog post](https://vincentgeranium.github.io/swift,/ios/2019/06/06/AutoLayout.html)
+
+---
+
+# Today Review
+
+오늘은 개념 정리와 함께 구현을 해봤다
+
+잘 정리되어있는 글을 보면서 그 글에 대한 개념 정리와 함께 구현을 해보니 훨씬 학습에 효과적인것 같았다
+
+원래 그냥 아무 생각 없이 했던 오토레이아웃에 대한 개념을 더 명확히 가져오는 학습이였으며
+
+Foundation Framework에 대해 간략하게 정리하고 그 내용을 알아가는 과정에서
+
+이해를 할 수 있었다
+
+아직은 Foundation Framework에 대해 완전하게 이해하지 못했지만
+
+여러번 반복해서 보다보면 지금 이해한 레벨보다 훨씬 더 깊게 이해 할 수 있을듯 하다
+
+OOP의 개념에 대해 아직 명확하게 이해되지 않아 다음에는 OOP에 대한 정리와 구현을 해봐야겠다.
