@@ -1,0 +1,31 @@
+# Today I Learned
+
+---
+
+- cryptoKit 에 대한 간략한 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-07-CryptoKit.markdown), [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/06/07/CryptoKit.html)
+
+- Error Handling 에 대한 간략한 정리 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-07-ErrorHandling.markdown), [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/06/07/ErrorHandling.html)
+
+---
+
+# Today Review
+
+오늘은 edwith 강의중 music app 에 대한 강의 중 오토레이아웃에 관한 강의를 듣는 도중
+
+항상 예제를 처음부터 다시 만드는데 지난번에도 추후 업로드 하려 했던 Error Handling에 관한 정리를
+
+아주 조금 해보았다, Error Handling에 관한 두번째 정리는 추후에 업로드 할 예정이다
+
+그리고 WWDC 2019 에서 발표한 여러 기술 중 기사에서 접하게 된 cryptoKit에 관하여 도큐먼테이션을 찾아보고
+
+정리를 해 보았다, 요즘 트랜드가 아무래도 블록체인에 관한것들이다 보니 Apple에서도 블록체인을 
+
+이용한 암호화페에 관한 도구(cryptoKit에)를 만들어 베타 버전으로 배포하고 있다
+
+아직 블록체인에 대해서 무지하지만 iOS를 공부하고 있는 입장에서 cryptoKit이라는 도구가 나왔고
+
+이것을 어떻게 활용 할 수 있을지에 대한 공부는 먼저 블록체인에 대한 개념적인 부분부터 알아가야겠다는 생각이 들었다
+
+원래도 블록체인에 관해 관심이 많았었는데 iOS 와 암호화페에 대한 연관성과 이것을 가지고 어떤 기능을 구현
+
+가능할지에 대한 흥미가 굉장히 많아졌다.
