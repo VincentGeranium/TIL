@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- Error Handling (2) [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-10-ErrorHandling-2.markdown), [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/06/10/ErrorHandling-2.html)
+
+- JSON 객체 만들고 출력해보기 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-10-Write-JSON-Object-to-OutputStream.playground)
+
+---
+
+# Today Review
+
+지난번에 이어서 Error Handling에 대하여 이어서 공부하였고
+
+JSON 파싱을 알아야 codable에 대해서도 이해가 깊이 될듯하여
+
+JSON에 대하여 공부하는 중이다 오늘은 JSON 객체를 만들고 출력해보는
+
+구현을 해 보았다
