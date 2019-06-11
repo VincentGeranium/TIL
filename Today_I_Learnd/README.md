@@ -80,4 +80,5 @@
 - [190607 - cryptoKit 에 대한 간략한 정리, Error Handling 에 대한 간략한 정리](./190607-TIL.markdown)
 - [190608 - edwith Music App AutoLayout -> 중간 과정 하는 중, OOP 개념 정리](./190608-TIL.markdown)
 - [190609 - JSON에 대한 간략한 정리 (1), initializer, Access Control](./190609-TIL.markdown)
-- [190610 - Error Handling (2), JSON 객체 만들고 출력해보기](./190610-TIL.markdown) 
+- [190610 - Error Handling (2), JSON 객체 만들고 출력해보기](./190610-TIL.markdown)
+- [190611 - JSON에 대한 개념 정리 (2), Swift에서 JSON 다루기, edwith MUSIC APP AutoLayout -> 버튼 만들고 뷰에 올리기](./190611-TIL.markdown)
