@@ -1,0 +1,27 @@
+# Today I Learned
+
+---
+
+- JSON에 대한 개념 정리(2) [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-11-JSON-Study.markdown), [blog post](https://vincentgeranium.github.io/ios,/swift/2019/06/11/JSON-Study.html)
+
+- Swift에서 JSON 다루기 [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-11-JSON-Class-Study.markdown), [blog post](https://vincentgeranium.github.io/2019/06/11/JSON-Class-Study.html)
+
+- edwith MUSIC APP AutoLayout -> 버튼 만들고 뷰에 올리기
+
+---
+
+# Today Review
+
+오늘은 JOSON에 대해 아직 다 정리하지 못한 개념들에 대해 간단하게 정리해보고
+
+직접적으로 한번 JSON 데이터를 만들어보고 Swift에서 어떻게 쓰이는지 직접 구현해 보았다
+
+또한 edwith AutoLayout 강의를 드디어 하나 들었다
+
+지금까지 edwith 강의를 듣고 코드를 만들어가보면서 부족한점이 나타나서
+
+그것들을 공부하고 정리하느라 하나의 강의를 듣는데 시간이 많이 들었다
+
+아직 AutoLayout 강의를 모두 다 들은것은 아니지만 내가 짜는 AutoLayout 코드와
+
+다른점이 많고 또한 부족한 점이 또 나타나서 보충해야 할 것 같다.
