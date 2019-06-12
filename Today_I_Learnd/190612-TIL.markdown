@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- edwith Music App AutoLayout (버튼, 슬라이더, 레이블) [github](https://github.com/VincentGeranium/Swift-Study/tree/master/edwith-Music-App-AutoLayout)
+
+- JSON Parsing
+
+---
+
+# Today Review
+
+edwith 강의 중 오토레이아웃 잡는 강의를 수강후 실제로 구현하는 것을 공부해 보았고
+
+Codable을 알기 위해서는 JSON이 어떻게 생성되고 어떤 형태이며 어떻게 파싱이 되는지를
+
+알아야 Codable을 더 쉽게 이해 할 수 잇을것 같아 JSON Parsing을 공부했다.
