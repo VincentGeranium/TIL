@@ -82,3 +82,4 @@
 - [190609 - JSON에 대한 간략한 정리 (1), initializer, Access Control](./190609-TIL.markdown)
 - [190610 - Error Handling (2), JSON 객체 만들고 출력해보기](./190610-TIL.markdown)
 - [190611 - JSON에 대한 개념 정리 (2), Swift에서 JSON 다루기, edwith MUSIC APP AutoLayout -> 버튼 만들고 뷰에 올리기](./190611-TIL.markdown)
+- [190612 - edwith Music App AutoLayout (버튼, 슬라이더, 레이블), JSON Parsing](./190612-TIL.markdown)
