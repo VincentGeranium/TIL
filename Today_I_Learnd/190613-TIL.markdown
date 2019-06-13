@@ -1,0 +1,25 @@
+# Today I Learned
+
+---
+
+- JSON Parsing -> 우주비행사 정보 Parsing 하기 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-13-Parsing-JSON.playground)
+
+- JSON Parsing -> 국제 우주 정거장 위치 정보 Parsing 하기  [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-13-Parsing-JSON-2.playground)
+
+---
+
+# Today Review
+
+오늘은 실제 정보를 직접 파싱하여 출력하는것을 공부해보고 구현 해보았다
+
+아직은 많이 어렵고, 특히 JSON 형식을 파싱할때 JSON 내에 데이터 어떤형식으로 들어가 있고
+
+그 데이터 형식을 swift 형태로 바꿔서 파싱해야 하는데 그 부분이 아직 이해가 안간다
+
+내일은 JSON 내의 데이터 형식에 대해 조금 더 공부해보고
+
+edwith Music App -> AutoLayout - IB(interface builder), pop란?, 문법공부(defer, compactMap, forEach)
+
+그리고 Codable을 공부해 보려 한다
+
+
