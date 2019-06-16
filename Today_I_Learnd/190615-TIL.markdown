@@ -1,0 +1,18 @@
+# Today I Learned
+
+---
+
+- Protocol and Extension (1) [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-15-Protocol-and-Extension.markdown), [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/06/15/Protocol-and-Extension.html)
+
+- type property -> 추후에 정리 후 업로드 예정
+
+---
+
+# Today Review
+
+앱을 만들다가 프로토콜에 대한 이해도와 공부가 부족하여 다시 공부해보자는 생각에 protocol과 extension에 대해
+
+공부해보고 조금씩 정리중이다.
+
+protocol을 공부하다가 type property에 대한 이해도가 많이 없다고 느껴져서 함께 정리 중 이다.
+
