@@ -1,0 +1,21 @@
+# Today I Learned
+
+---
+
+- 프로토콜 정의와 구현 코드 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-16-protocol-Example.playground)
+
+- 프로토콜 채택과 프로퍼티 구현 코드 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-16-protocol-property-Study.playground)
+
+---
+
+# Today Review
+
+오늘은 여러 일이 겹처 공부에 시간을 많이 투자하지 못하였다
+
+그래서 지난번 포스팅했던 protocol과 extension의 설명에 구현되는 코드를
+
+구현해보는 학습을 해 보았다
+
+내일은 미뤄두었던 pop에 대해 다시 정리해보고
+
+간단한 기능을 하는 앱을 만들어 볼 생각이다
