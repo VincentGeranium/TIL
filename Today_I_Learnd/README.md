@@ -86,4 +86,5 @@
 - [190613 - JSON Parsing -> 우주비행사 정보 Parsing 하기, JSON Parsing -> 국제 우주 정거장 위치 정보 Parsing 하기](./190613-TIL.markdown)
 - [190614 - pop란 (1), SKT 날씨 API 를 활용한 날씨 앱 만들기 실습](./190614-TIL.markdown)
 - [190615 - Protocol and Extension (1), type property](./190615-TIL.markdown)
-- [190616 - Protocol과 Extension(1)의 설명에 들어가는 예시 코드 구현](./190616-TIL.markdown)
+- [190616 - Protocol과 Extension(1)의 설명에 들어가는 예시 코드 구현](./190616-TIL.markdowno)
+- [190617 - Protocol과 Extension(2), Sandbox Directory](./190617-TIL.markdown)
