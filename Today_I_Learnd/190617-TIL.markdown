@@ -1,0 +1,21 @@
+# Today I Learned
+
+---
+
+- Protocol-and-Extension(2) [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-17-Protocol-and-Extensions-2.markdown), [Blog post](https://vincentgeranium.github.io/ios,/swift/2019/06/17/Protocol-and-Extensions-2.html)
+
+- Sandbox Directory -> 추후에 정리 후 블로그 포스트 업로드 예정
+
+---
+
+# Today Review
+
+오늘은 프로토콜의 상속과 메소드 요구, 이니셜라이저 요구에 대하여 알아보았다
+
+프로토콜에 대해서 어느정도 개념이 잡혔고 이제 익스텐션에 대해 알아보려한다
+
+그리고 Sandbox Directory에 대한것을 배웠는데 개념적인 이론은 어떤 기술인지는 알겠는데
+
+실제로 구현하기에는 어렵겠다는 생각에 공부를 따로 더 해서 정리 후 포스트 업로드를 할 예정이다
+
+내일은 pop에 대하여 이어서 다시 공부하고 익스텐션 정리후 edwith 강의를 다시 들을 예정이다
