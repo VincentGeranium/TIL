@@ -1,0 +1,21 @@
+# Today I Learned
+
+---
+
+- Protocol과 Extension (3) [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-18-Protocol-and-Extension-3.markdown), [blog post](https://vincentgeranium.github.io/ios,/swift/2019/06/18/Protocol-and-Extension-3.html)
+
+- Protocol과 Extension (4) -> 추후에 정리 후 업로드 예정
+
+---
+
+# Today Review
+
+프로토콜에 대한 정리는 끝이 났으나, 아직 익스텐션에 대한 정리가 끝나지 않아 
+
+Protocol과 Extension 시리즈? 를 계속해서 정리해서 올리고 있다
+
+pop 시리즈? 도 정리를 얼른 끝마치고 앱 구현하는 공부에 매진해야 하는데
+
+정리를 한다는 것 자체에 많은 시간이 걸려 조금은 힘이들고 진도에 진전이 없는것 같아
+
+조급함이 느껴지기도 한다.
