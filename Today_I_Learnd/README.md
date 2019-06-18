@@ -88,3 +88,4 @@
 - [190615 - Protocol and Extension (1), type property](./190615-TIL.markdown)
 - [190616 - Protocol과 Extension(1)의 설명에 들어가는 예시 코드 구현](./190616-TIL.markdowno)
 - [190617 - Protocol과 Extension(2), Sandbox Directory](./190617-TIL.markdown)
+- [190618 - Protocol과 Extension(3), Protocol과 Extension(4)](./190618-TIL.markdown)
