@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- Protocol and Extension(4) [github](https://github.com/VincentGeranium/VincentGeranium.github.io/blob/master/_posts/2019-06-19-Protocol-and-Extension-4.markdown), [blog post](https://vincentgeranium.github.io/ios,/swift/2019/06/19/Protocol-and-Extension-4.html)
+
+- 웹 뷰를 이용하여 원하는 웹페이지 띄우기 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-19-webkit-study)
+
+---
+
+# Today Review
+
+프로토콜과 익스텐션에 대한 시리즈 정리가 다 끝이났다
+
+이제는 pop에 대한 정리를 해야하고, 현재는 wkwebviwe에 대해서 찾아보고
+
+공부하며 하나씩 구현해 나아가고 있다
