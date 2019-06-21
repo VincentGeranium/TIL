@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- webkit delegate 공부 -> 추후 정리 후 업로드 예정
+
+- info.plist 로컬라이징 -> 추후 정리 후 업로드 예정
+
+---
+
+# Today Review
+
+webkit을 이용하여 앱을 만들려고 하니
+
+모르는 내용도 많고 UIWebKit 에서 ios 버전이 높아짐에 따라
+
+wevkit으로 바꾸어 사용해야 되서 바뀐 내용을 적용하다 보니
+
+구현이 안되는 것들도 있어서 조금 고생중이다.
