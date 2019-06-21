@@ -90,3 +90,4 @@
 - [190617 - Protocol과 Extension(2), Sandbox Directory](./190617-TIL.markdown)
 - [190618 - Protocol과 Extension(3), Protocol과 Extension(4)](./190618-TIL.markdown)
 - [190619 - Protocol and Extension(4), 웹 뷰를 이용하여 원하는 웹페이지 띄우기](./190619-TIL.markdown)
+- [190620 - webkit delegate 공부, info.plist 로컬라이징](./190620-TIL.markdown)
