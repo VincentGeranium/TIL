@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- view 전환 (present 와 dismiss 사용) [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-24-ViewChange-Study)
+
+---
+
+# Today Review
+
+뷰 전환에 대한 복습과 함께 옛날에 학습했지만 자주 구현을 안해서 그런지
+
+손에도 안익고 머리에도 안들어 와 있어서
+
+복습 위주의 학습을 하고있다
+
+또한 복습을 하면서 다시금 확실하게 학습되는것 같아 좋다
