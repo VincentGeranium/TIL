@@ -1,0 +1,17 @@
+# Today I Learned
+
+---
+
+- webkit을 이용하여 특정 instagram으로 이동 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-23-testApp)
+
+---
+
+# Today Review
+
+webkit을 이용하여 특정 instagram으로 이동 구현 중 실패한 사항들에 대해 다시 공부해야 하는 것을 느꼇다
+
+**실패 사항**
+
+- UIColor.init(displayP3Red: , green: , blue: , alpha: ) 를 이용하여 버튼의 backgroundColor과 버튼의 titleColor 바꾸는것이 안됨
+
+- 특정 인스타 페이지로 넘어갈때 UIActivityIndicatorView()의 실행이 안됨
