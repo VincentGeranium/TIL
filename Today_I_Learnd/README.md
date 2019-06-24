@@ -94,3 +94,4 @@
 - [190621 - view 전환 복습, webkit 공부](./190621-TIL.markdown)
 - [190622 - 개인 덕질 프로젝트 돌입](./190622-TIL.markdown)
 - [190623 - webkit을 이용하여 특정 instagram으로 이동](./190623-TIL.markdown)
+- [190624 - view 전환 (present 와 dismiss 사용)](./190624-TIL.markdown)
