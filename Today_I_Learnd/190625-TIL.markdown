@@ -1,0 +1,22 @@
+# Today I Learned
+
+---
+
+- view 전환 (Navigation Controller와 Navigation barButton 이용) [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-25-ViewChange-Navigation)
+
+- view 전환 (TabBar Controller) [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-25-tabBarController)
+
+- FireBase를 이용한 google 로그인 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-25-login-firebase-google)
+    - error : 로그인 구현은 되었는데, 유저 허용 과정에서 error 발생 
+
+---
+
+# Today Review
+
+view 전환과 firebase를 이용한 로그인을 공부했다
+
+일단 뷰 전환에 대해 조금 더 공부하면 UI/UX에 대한 깊이를 넓혀나가고
+
+FireBase로 DB에 대한 새로운 공부와 그 DB를 이용하여 회원가입하고 로그인하는
+
+구현과 공부를 함께하려 한다
