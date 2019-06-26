@@ -1,0 +1,13 @@
+# Today I Learned
+
+---
+
+- 해커톤 로그인 페이지, 회원가입 페이지 구성 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-06-26-make-signIn-And-signUp-Page)
+
+---
+
+# Today Review
+
+해커톤에서 4명이 팀을 이뤄서 앱을 만드는데
+
+그 팀에서 맡은 부분인 로그인 페이지와 회원가입 페이지를 구성하였다
