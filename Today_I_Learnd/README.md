@@ -97,3 +97,4 @@
 - [190624 - view 전환 (present 와 dismiss 사용)](./190624-TIL.markdown)
 - [190625 -  view 전환 (Navigation Controller와 Navigation barButton 이용),  view 전환 (TabBar Controller), FireBase를 이용한 google 로그인](./190625-TIL.markdown)
 - [190626 - 해커톤 로그인 페이지, 회원가입 페이지 구성](./190626-TIL.markdown)
+- [190627 - 해커톤 회원가입 데이터 DB로 보내기, DB 데이터 가져오기, 로그인, 회원가입 페이지 오토레이아웃 수정](./190627-TIL.markdown)
