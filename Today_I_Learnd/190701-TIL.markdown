@@ -2,8 +2,22 @@
 
 ---
 
--
+- Instagram의 URL Scheme 중 앱을 여는 URL Scheme를 이용하여 외부에 있는 인스타그램 앱 열기 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/2019-07-02-Jamminim-test-Project)
 
 ---
 
 # Today Review
+
+webkit을 이용하여 다른 web page를 열어 뷰에 띄우는 구현을 하다가
+
+인스타그램을 web의 url로 열면 생기는 문제점을 발견하였다
+
+그래서 직접 인스타그램 앱을 여는 방법을 생각했는데
+
+내가 만든 앱에서 다른 앱을 여는 방법은 webkit을 이용하여 web page를 띄우는 방법과는
+
+완전히 달라 그에 대한 공부와 구현을 해보았다
+
+인스타그램을 여는것 까지는 해결했지만, 특정 아이디를 가진 사람의 인스타를 들어가는 방법까지는
+
+아직 몰라서 해결해야 되는 부분 중 하나이다.
