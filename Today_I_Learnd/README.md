@@ -101,3 +101,4 @@
 - [190628 - 그린라이트 프로젝트 (해커톤) -> 해커톤 종료](./190628-TIL.markdown)
 - [190629 - alamofire에 대한 개념 정리](./190629-TIL.markdown)
 - [190630 - Webkit 을 이용한 Jamminim 개인 project 시작](./190630-TIL.markdown)
+- [190701 - Instagram의 URL Scheme 중 앱을 여는 URL Scheme를 이용하여 외부에 있는 인스타그램 앱 열기](./190701-TIL.markdown)
