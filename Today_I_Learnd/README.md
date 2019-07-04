@@ -102,3 +102,5 @@
 - [190629 - alamofire에 대한 개념 정리](./190629-TIL.markdown)
 - [190630 - Webkit 을 이용한 Jamminim 개인 project 시작](./190630-TIL.markdown)
 - [190701 - Instagram의 URL Scheme 중 앱을 여는 URL Scheme를 이용하여 외부에 있는 인스타그램 앱 열기](./190701-TIL.markdown)
+- [190702 - kakao SDK 설치와 Framework를 이용하여 내 카카오 프로필 띄우기](./190702-TIL.markdown)
+- [190703 - kakao SDK 를 이용하여 로그인 해보기 구현, MVC 관련 개념 읽고 정리, API에 대한 개념 정리](./190703-TIL.markdown)
