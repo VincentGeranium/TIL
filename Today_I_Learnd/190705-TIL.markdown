@@ -2,7 +2,7 @@
 
 ---
 
-- tableView 공부 [github]()
+- tableView 공부 [github](https://github.com/VincentGeranium/Swift-Study/tree/master/TableView-Study)
 
 ---
 
