@@ -1,0 +1,21 @@
+# Today I Learned
+
+---
+
+- UI/UX fixed -> AirBnB clone project
+
+- Study about JSON and Firebase
+
+---
+
+# Today Review
+
+에어비엔비 클론 프로젝트 내에서 회원가입에 대한 UI/UX를 수정하였고
+
+계속 반복적으로 사용되는 UI/UX 의 경우 따로 .swift 파일로 UIView 만 상속한 뷰를 만들어
+
+재사용 할 수 있도록 새로 수정 및 구현 하였으며 MVC 패턴에 대한 이해도가 부족하여 지금까지
+
+뷰 컨트롤러를 비대하게 크게 사용하였는데 지금은 View를 따뤄 나누어 사용하려 노력중이다
+
+다음번에는 model 까지 나누어 만들어보려 한다
