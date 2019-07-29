@@ -115,3 +115,4 @@
 - [190717 - AirBnB Clone Project 진행 -> UI/UX 회원가입 부분 수정 및 새로운 페이지 생성, 백엔드 측에서 만들어준 API 명세 확인하는 공부](./190717-TIL.markdown)
 - [190720 - UI/UX fixed -> AirBnB clone project, Study about JSON and Firebase](./190720-TIL.markdown)
 - [190727 - 로그인 페이지 구현 중, 로그인 관련 API 붙이기](./190727-TIL.markdown)
+- [190729 - SignUp Paeg and SignIn Page make Validation Logic, Alarm Page complete UI/UX, add API in SignIn](./190729-TIL.markdown)
