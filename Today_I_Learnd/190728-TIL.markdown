@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- SignUp Paeg and SignIn Page make Validation Logic
+
+- Alarm Page complete UI/UX
+
+- add API in SignIn
+ 
+---
+
+# Today Review
+
+오늘은 회원가입 페이지와 로그인 페이지의 유효성 로직을 짜고
+
+사용자가 앱에 대한 알림을 받는지 혹은 거부하는지에 대한 페이지의 UI/UX를 짯다
+
+또한 로그인 페이지에서 API를 붙이고 토큰은 받아오는 것 까지 작업을 했다
