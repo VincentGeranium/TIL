@@ -1,0 +1,19 @@
+# Today I Learned
+
+---
+
+- SignIn and SignUp Page UI/UX and Validation -> 마무리 작업 
+
+---
+
+# Today Review
+
+회원가입과 로그인 부분에 대한 API는 모두 붙인 상태로
+
+회원가입과 로그인 기능은 구현했다 그래서 지금까지 상대적으로 신경을 못쓴
+
+분류과정에 대한 UI/UX에 대해 작업했다
+
+예를들어 email field 부분에 제대로된 email address가 적히지 않으면 alert 창을 띄워준다던가
+
+유저가 확실하게 알 수 있도록 하는 부분에 대해 작업했다
