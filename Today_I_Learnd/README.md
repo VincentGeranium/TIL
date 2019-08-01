@@ -117,4 +117,5 @@
 - [190727 - 로그인 페이지 구현 중, 로그인 관련 API 붙이기](./190727-TIL.markdown)
 - [190728 - SignUp Paeg and SignIn Page make Validation Logic, Alarm Page complete UI/UX, add API in SignIn](./190728-TIL.markdown)
 - [190729 - SignIn and SignUp Page UI/UX and Validation -> 마무리 작업](./190729-TIL.markdown)
-- [SignIn and SignUp 마무리 못지은 Validation UI/UX 작업, AirBnB 결제 페이지 부분 작업 시작](./190730-TIL.markdown)
+- [190730 - SignIn and SignUp 마무리 못지은 Validation UI/UX 작업, AirBnB 결제 페이지 부분 작업 시작](./190730-TIL.markdown)
+- [190801 - 결제 페이지 UI/UX 구현, 로그인 페이지 -> 로그인 버튼 활성화 작업, 인디케이터 커스텀](./190801-TIL.markdown)
