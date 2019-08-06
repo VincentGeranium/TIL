@@ -120,3 +120,5 @@
 - [190730 - SignIn and SignUp 마무리 못지은 Validation UI/UX 작업, AirBnB 결제 페이지 부분 작업 시작](./190730-TIL.markdown)
 - [190801 - 결제 페이지 UI/UX 구현, 로그인 페이지 -> 로그인 버튼 활성화 작업, 인디케이터 커스텀](./190801-TIL.markdown)
 - [190805 - Collection View, Collection View Cell Customizing, UICollectionViewFlowLayout](./190805-TIL.markdown)
+- [190806 - AirBnB Clone Project -> 저장 목록 부분 UI/UX, tableview, tableview cell custom, basic syntax (struct, enum, protocol)](./190806-TIL.markdown)
+
