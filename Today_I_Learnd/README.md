@@ -121,4 +121,7 @@
 - [190801 - 결제 페이지 UI/UX 구현, 로그인 페이지 -> 로그인 버튼 활성화 작업, 인디케이터 커스텀](./190801-TIL.markdown)
 - [190805 - Collection View, Collection View Cell Customizing, UICollectionViewFlowLayout](./190805-TIL.markdown)
 - [190806 - AirBnB Clone Project -> 저장 목록 부분 UI/UX, tableview, tableview cell custom, basic syntax (struct, enum, protocol)](./190806-TIL.markdown)
+- [190808 - 클래스, 인스턴스, 객체, 메서드 각각의 의미하는 바와 차이점](./190808-TIL.markdown)
+- [190810 - 프로그래머스 알고리즘 문제 풀이](./190810-TIL.markdown)
+- [190813 - RxSwift 특강, DeadLock 개념 정리, CGPoint, CGSize, CGRect의 차이](190813-TIL.markdown)
 
