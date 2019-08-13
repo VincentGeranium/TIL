@@ -4,9 +4,9 @@
 
 - RxSwift 특강
 
-- DeadLock 개념 정리
+- [DeadLock 개념 정리](https://github.com/VincentGeranium/study-summary/blob/master/summary/190813-DeadLock.markdown)
 
-- CGPoint, CGSize, CGRect의 차이
+- [CGPoint, CGSize, CGRect의 차이](https://github.com/VincentGeranium/Swift-Study/blob/master/190813-CGPoint-Size-Rect.markdown)
 
 ---
 
