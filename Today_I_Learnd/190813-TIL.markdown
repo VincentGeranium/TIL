@@ -6,6 +6,14 @@
 
 - DeadLock 개념 정리
 
+- CGPoint, CGSize, CGRect의 차이
+
 ---
 
 # Today Review
+
+몰랏던 개념이나 알고있었지만 정확한 차이점이 무엇인지 몰랏던 개념들을 정리하였다
+
+RxSwift에 대한 필요성과 RxSwift가 왜 필요한지, 어떻게 사용되는지에 대한 특강을 들었다
+
+아직 RxSwift에 대한 개념도 잡히지 않지만 공부하며 더욱더 깊이 알고 싶어졌다.
