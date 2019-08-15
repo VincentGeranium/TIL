@@ -123,5 +123,6 @@
 - [190806 - AirBnB Clone Project -> 저장 목록 부분 UI/UX, tableview, tableview cell custom, basic syntax (struct, enum, protocol)](./190806-TIL.markdown)
 - [190808 - 클래스, 인스턴스, 객체, 메서드 각각의 의미하는 바와 차이점](./190808-TIL.markdown)
 - [190810 - 프로그래머스 알고리즘 문제 풀이](./190810-TIL.markdown)
-- [190813 - RxSwift 특강, DeadLock 개념 정리, CGPoint, CGSize, CGRect의 차이](190813-TIL.markdown)
-
+- [190813 - RxSwift 특강, DeadLock 개념 정리, CGPoint, CGSize, CGRect의 차이](./190813-TIL.markdown)
+- [190814 - Sqence에 대하여 정리, UI/UX 특강](./190814-TIL.md)
+- [190815 - flatMap과 compactMap 의 차이점과 실습, flatMap과 compactMap 정리, Frame과 Bounds의 차이 정리, 프로퍼티의 get, set](./190815-TIL.md)
