@@ -126,3 +126,4 @@
 - [190813 - RxSwift 특강, DeadLock 개념 정리, CGPoint, CGSize, CGRect의 차이](./190813-TIL.markdown)
 - [190814 - Sqence에 대하여 정리, UI/UX 특강](./190814-TIL.md)
 - [190815 - flatMap과 compactMap 의 차이점과 실습, flatMap과 compactMap 정리, Frame과 Bounds의 차이 정리, 프로퍼티의 get, set](./190815-TIL.md)
+- [190816 - App Life Cycle](./190816-TIL.md)
