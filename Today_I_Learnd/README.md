@@ -149,3 +149,4 @@
 - [190905 - CPG 2번째 정리,edwith 부스트코스 - 4 인터페이스 빌더의 객체를 코드와 연결(IBAction)](./190905-TIL.md)
 - [190906 - edwith 강의](./190906-TIL.md)
 - [190907 - edwith 부스트코스 - 구현코드작성, UIKit, Foundation Framework, CoCoa Touch Framework, AutoLayout](./190907-TIL.md)
+- [190908 - edwith 강의(오토레이아웃 코드, 인터페이스 빌더)](./190909-TIL.md)
