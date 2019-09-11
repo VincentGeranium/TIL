@@ -150,3 +150,5 @@
 - [190906 - edwith 강의](./190906-TIL.md)
 - [190907 - edwith 부스트코스 - 구현코드작성, UIKit, Foundation Framework, CoCoa Touch Framework, AutoLayout](./190907-TIL.md)
 - [190908 - edwith 강의(오토레이아웃 코드, 인터페이스 빌더)](./190909-TIL.md)
+- [190910 - AutoLayout summary, NSLayoutConstraint 제약조건 지정](./190910-TIL.md)
+- [190911 - 프로그래밍 디자인 패턴](./190911-TIL.md)
