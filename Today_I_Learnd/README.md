@@ -154,4 +154,4 @@
 - [190911 - 프로그래밍 디자인 패턴](./190911-TIL.md)
 - [190913 - MVC design pattern 공부](./190913-TIL.md)
 - [190914 - MVC pattern summary (MVC 의 개념 정리)](./190914-TIL.md)
-- [190915 - MVC Design Pattern (2) -> MVC 기본 개념, Model Objects (모델 객체)와 잘 설계된 모델 클래스, 모델 서브클래스를 구현시, 클래스 디자인 고려 사항](./190915-TIL.md)
+- [190915 - MVC Design Pattern (2) -> MVC 기본 개념, Model Objects (모델 객체)와 잘 설계된 모델 클래스, 모델 서브클래스를 구현시, 클래스 디자인 고려 사항, MVC Design Pattern (3) -> View Objects (뷰 객체), Controller Objects](./190915-TIL.md)
