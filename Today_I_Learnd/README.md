@@ -190,4 +190,4 @@
 - [191029 - edwith PJT2 진행중, UIImagePicker Example 진행중](./191029-TIL.md)
 - [191030 - iOS 13 부터 없어진 keyWindow에 대한 방한 찾기](./191030-TIL.md)
 - [191031 - swift syntax summary](./191031-TIL.md)
-- [UIImagePicker Example Project Complet, Initializer Study Summary, Weather App 진행중](./191102-TIL.md)
+- [191102 - UIImagePicker Example Project Complet, Initializer Study Summary, Weather App 진행중](./191102-TIL.md)
