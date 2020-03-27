@@ -304,4 +304,4 @@
 - [200324 - Initializer of Parameter and Optional Property Type Summary, Constant Property Initialization and Default, Memberwise Initializer Summary](./200324-TIL.md)
 - [200325 - Initializer Delegation and Failable Initializer Summary](./200325-TIL.md)
 - [200326 - Set Property Default Value Using Function Summary](./200326-TIL.md)
-- [200327 - ](./200327-TIL.md)
+- [200327 - Deinitializer Summary](./200327-TIL.md)
