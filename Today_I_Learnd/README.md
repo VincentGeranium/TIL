@@ -305,4 +305,4 @@
 - [200325 - Initializer Delegation and Failable Initializer Summary](./200325-TIL.md)
 - [200326 - Set Property Default Value Using Function Summary](./200326-TIL.md)
 - [200327 - Deinitializer Summary](./200327-TIL.md)
-- [200328 - ](./200328-TIL.md)
+- [200328 - Access Control Summary, Access Level Summary](./200328-TIL.md)
