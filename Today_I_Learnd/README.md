@@ -312,3 +312,4 @@
 - [200402 - Closure Summary, Basic Closure Summary](./200402-TIL.md)
 - [200404 - Function And Method ~ Parameter Name And Argument Label](./200404-TIL.md)
 - [200405 - Default Parameter Values, In-Out Parameter, Variadic Parameter Summary](./200405-TIL.md)
+- [200406 - ](./200406-TIL.md)
