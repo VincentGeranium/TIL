@@ -318,3 +318,4 @@
 - [200409 - withoutActuallyEscaping Summary, AutoClosure Summary](./200409-TIL.md)
 - [200410 - Optional and Used Optional Summary](./200410-TIL.md)
 - [200411 - iOS Summary(TableViewController and Prototype Cell)](./200411-TIL.md)
+- [200412 - iOS MyMovieChart -> MovieVO 클래스 작성, ListVC 작성, iOS Study (Chapter 8 - 데이터 소스, 데이터 소스 만들기, Value Object 패턴, 데이터 넣어주기)](./200412-TIL.md)
