@@ -321,3 +321,4 @@
 - [200412 - iOS MyMovieChart -> MovieVO 클래스 작성, ListVC 작성, iOS Study (Chapter 8 - 데이터 소스, 데이터 소스 만들기, Value Object 패턴, 데이터 넣어주기)](./200412-TIL.md)
 - [200413 - Optional Unwrapping Summary, iOS Refactoring Summary](./200413-TIL.md)
 - [200414 - Optional Chaining Study](./200414-TIL.md)
+- [200415 - Optional Chaining Summary](./200415-TIL.md)
