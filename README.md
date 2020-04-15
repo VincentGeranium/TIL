@@ -2,7 +2,7 @@
 
 ---
 
-### [Today_I_Learnd](./Today_I_Learnd/README.md)
+### [Today_I_Learnd](./Today_I_Learnd/README.md) 목록 보기
 
 ---
 
