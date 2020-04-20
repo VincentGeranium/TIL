@@ -326,4 +326,4 @@
 - [200417 - iOS Summary - 테이블 뷰와 데이터 소스 연동, 데이터 소스 연동을 위한 핵심 메소드](./200417-TIL.md)
 - [200418 - iOS Summary - Chapter 8 - 테이블 뷰와 데이터 소스 연동Summary 안에 내용 추가](./200418-TIL.md)
 - [200419 - Early Exit, guard syntax Summary](./200419-TIL.md)
-- [200420 - ](./200420-TIL.md)
+- [200420 - Protocol Summary - 프로토콜이란, 프로토콜 정의, Protocol Summary - 프로토콜 요구사항, 프로퍼티 요구, 메서드 요구](./200420-TIL.md)
