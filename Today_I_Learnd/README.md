@@ -328,4 +328,4 @@
 - [200419 - Early Exit, guard syntax Summary](./200419-TIL.md)
 - [200420 - Protocol Summary - 프로토콜이란, 프로토콜 정의, Protocol Summary - 프로토콜 요구사항, 프로퍼티 요구, 메서드 요구](./200420-TIL.md)
 - [200421 - Protocol Summary - 가변 메서드 요구 , 이니셜라이저 요구](./200421-TIL.md)
-- [200422 - Protocol Summary - 프로토콜의 상속과 클래스 전용 프로토콜, 프로토콜 조합과 프로토콜 준수 확인, 프로토콜 캐스팅](./200422-TIL.md)
+- [200422 - Protocol Summary - 프로토콜의 상속과 클래스 전용 프로토콜, 프로토콜 조합과 프로토콜 준수 확인, 프로토콜 캐스팅, Protocol Summary - 프로토콜(protocol) - 프로토콜의 선택적 요구, 프로토콜 변수와 상수, 위임을 위한 프로토콜](./200422-TIL.md)
