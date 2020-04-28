@@ -334,3 +334,4 @@
 - [200425 - 연산자(Basic Operator) - 후위 연산자(Postfix Operator) 정의와 구현 Summary](./200425-TIL.md)
 - [200426 - 연산자(Basic Operator) - 중위 연산자(Infix Operator) 정의와 구현, 연산자 우선순위 그룹 정의, 중위 연산자를 정의하는 방법) Summary](./200426-TIL.md)
 - [200427 - 연산자(Basic Operator) - 연산자 우선순위(Precedence)와 결합방향(Associativity) Summary](./200427-TIL.md)
+- [200428 - ](./200428-TIL.md)
