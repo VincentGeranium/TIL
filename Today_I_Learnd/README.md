@@ -335,3 +335,5 @@
 - [200426 - 연산자(Basic Operator) - 중위 연산자(Infix Operator) 정의와 구현, 연산자 우선순위 그룹 정의, 중위 연산자를 정의하는 방법) Summary](./200426-TIL.md)
 - [200427 - 연산자(Basic Operator) - 연산자 우선순위(Precedence)와 결합방향(Associativity) Summary](./200427-TIL.md)
 - [200428 - 확장(expansion) - 서브스크립트(Subscript), 서브스크립트 문법, 서브스크립트 구현](./200428-TIL.md)
+- [200429 - 확장(expansion) - 복수 서브스크립트, 서브스크립트 마무리(Subscript) Summary](./200429-TIL.md)
+- [200430 - 확장(expansion) - 제네릭(Generic) Summary](./200430-TIL.md)
