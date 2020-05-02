@@ -337,3 +337,4 @@
 - [200428 - 확장(expansion) - 서브스크립트(Subscript), 서브스크립트 문법, 서브스크립트 구현](./200428-TIL.md)
 - [200429 - 확장(expansion) - 복수 서브스크립트, 서브스크립트 마무리(Subscript) Summary](./200429-TIL.md)
 - [200430 - 확장(expansion) - 제네릭(Generic) Summary](./200430-TIL.md)
+- [200501 - 확장(expansion) - 제네릭 함수(Generic Functions) Summary, 확장(expansion) - 제네릭 타입(Generic Types) Summary](./200501-TIL.md)
