@@ -338,3 +338,6 @@
 - [200429 - 확장(expansion) - 복수 서브스크립트, 서브스크립트 마무리(Subscript) Summary](./200429-TIL.md)
 - [200430 - 확장(expansion) - 제네릭(Generic) Summary](./200430-TIL.md)
 - [200501 - 확장(expansion) - 제네릭 함수(Generic Functions) Summary, 확장(expansion) - 제네릭 타입(Generic Types) Summary](./200501-TIL.md)
+- [200502 - 확장(expansion) - 익스텐션(Extensions), 익스텐션 문법 Summary, SK API 를 이용한 날씨 앱 프로젝트 진행](./200502-TIL.md)
+- [200503 - kxcoding weather App 강의 수강](./200503-TIL.md)
+- [200504 - kxcoding weather App 강의 수강](./200504-TIL.md)
