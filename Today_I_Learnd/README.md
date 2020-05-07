@@ -341,3 +341,6 @@
 - [200502 - 확장(expansion) - 익스텐션(Extensions), 익스텐션 문법 Summary, SK API 를 이용한 날씨 앱 프로젝트 진행](./200502-TIL.md)
 - [200503 - kxcoding weather App 강의 수강](./200503-TIL.md)
 - [200504 - kxcoding weather App 강의 수강](./200504-TIL.md)
+- [200505 - kxcoding weather app 강의 듣고 프로젝트 진행](./200505-TIL.md)
+- [200506 - 확장(expansion) - 익스텐션(Extensions)으로 추가할 수 있는 기능 - 연산 프로퍼티 Summary](./200506-TIL.md)
+- [200507 - ](./200507-TIL.md)
