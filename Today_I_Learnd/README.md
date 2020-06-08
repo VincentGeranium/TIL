@@ -356,3 +356,5 @@
 - [200517 - kxcoding memo app 강의 듣고 프로젝트 진행](./200517-TIL.md)
 - [200518 - 상속(Inheritance) - 요구 이니셜라이저(Required Initializer) Summary, 타입 캐스팅(Type Casting) - 기존 언어의 타입 변환과 스위프트의 타입 변환 Summary, 타입 캐스팅(Type Casting) - 스위프트 타입 캐스팅(Type Casting of Swift) Summary, 타입 캐스팅(Type Casting) - 데이터 타입 확인(Checking Type) Summary](./200518-TIL.md)
 - [200519 - 타입 캐스팅(Type Casting) - 다운캐스팅(Downcasting) Summary, 타입 캐스팅(Type Casting) - Any, AnyObject의 타입 캐스팅(Type Casting for Any and AnyObject) Summary](./200519-TIL.md)
+- [200520 - memoApp 구현](./200520-TIL.md)
+- []()
